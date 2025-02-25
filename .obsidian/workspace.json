@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Calculus/Limits/Limits.md",
+                "file": "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limits"
+              "title": "Outline of Chapter 3.1 Worksheet"
             }
           },
           {
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,6 +219,8 @@
   },
   "active": "fd31208d969c7bc9",
   "lastOpenFiles": [
+    "Pasted Image 20250225185433_865.png",
+    "Pasted Image 20250225185357_832.png",
     "Pasted Image 20250225184240_944.png",
     "Pasted Image 20250225183943_587.png",
     "Images/Pasted Image 20250225181235_402.png",
@@ -230,8 +232,6 @@
     "Images/Pasted Image 20250225172003_177.png",
     "Images/Pasted Image 20250225171507_596.png",
     "Images/Pasted Image 20250225171251_182.png",
-    "Images/Pasted Image 20250225171128_781.png",
-    "Images/Pasted Image 20250225171103_452.png",
     "InkTest.md",
     "Excalidraw/Test.md",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
