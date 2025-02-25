@@ -2,6 +2,7 @@
   "vimMode": true,
   "showInlineTitle": true,
   "promptDelete": false,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Attachments"
+  "newFileLocation": "root",
+  "newFileFolderPath": "Images",
+  "attachmentFolderPath": "./attachments"
 }
