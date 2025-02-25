@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "317489034f09bbc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7568b2312b143aa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd31208d969c7bc9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.1 Worksheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "330e4f7e3d945887",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef0cd9c8cd9f17e",
+        "type": "tabs",
+        "dimension": 80.0952380952381,
+        "children": [
+          {
+            "id": "79a80faadf28fcff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2781e447246c507d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "afca8af392e57326",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3114751d36077fbc",
+        "type": "tabs",
+        "dimension": 19.904761904761905,
+        "children": [
+          {
+            "id": "b731a9a5264222bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ec28f1de42fbc473",
+    "type": "split",
+    "children": [
+      {
+        "id": "075abe5a3b526aa9",
+        "type": "tabs",
+        "dimension": 57.875457875457876,
+        "children": [
+          {
+            "id": "7da4ffd3f46a11f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "48a63a763e5c5223",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "81db8eb117d2e218",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47d6b5d15c133e5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Calculus/Limits/Limits.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Limits"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "97bae09a01df6a91",
+        "type": "tabs",
+        "dimension": 42.12454212454212,
+        "children": [
+          {
+            "id": "27034307006ef19e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "fd31208d969c7bc9",
+  "lastOpenFiles": [
+    "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
+    "Images",
+    "Images/Pasted Image 20250225172318_025.png",
+    "Images/Pasted Image 20250225172144_532.png",
+    "Images/Pasted Image 20250225172044_140.png",
+    "Images/Pasted Image 20250225172003_177.png",
+    "Images/Pasted Image 20250225171507_596.png",
+    "Images/Pasted Image 20250225171251_182.png",
+    "Images/Pasted Image 20250225171128_781.png",
+    "Images/Pasted Image 20250225171103_452.png",
+    "InkTest.md",
+    "Excalidraw/Test.md",
+    "Excalidraw/Calculus/Chapter 2/Limits.md",
+    "Excalidraw/Calculus/Chapter 3/Untitled.md",
+    "Excalidraw/Calculus/Chapter 3",
+    "Excalidraw/Calculus/Chapter 2",
+    "Excalidraw/Calculus/Untitled.md",
+    "Excalidraw/Calculus",
+    "Excalidraw",
+    "Ink/Drawing/2025.2.21 - 22.36pm.drawing",
+    "Ink/Writing/2025.2.21 - 22.33pm.writing",
+    "Ink/Writing/2025.2.21 - 22.35pm.writing",
+    "Ink/Drawing",
+    "Ink/Writing",
+    "Welcome.md",
+    "2025-02-21.md",
+    "Untitled.canvas"
+  ]
+}
