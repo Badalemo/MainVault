@@ -103,7 +103,7 @@
       {
         "id": "075abe5a3b526aa9",
         "type": "tabs",
-        "dimension": 57.875457875457876,
+        "dimension": 57.87545787545789,
         "children": [
           {
             "id": "7da4ffd3f46a11f0",
@@ -166,14 +166,24 @@
               "icon": "lucide-list",
               "title": "Outline of Limits"
             }
+          },
+          {
+            "id": "2ac4f0dfb0834ec2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "97bae09a01df6a91",
         "type": "tabs",
-        "dimension": 42.12454212454212,
+        "dimension": 42.12454212454211,
         "children": [
           {
             "id": "27034307006ef19e",
@@ -189,11 +199,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "local-backup:Run local backup": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
