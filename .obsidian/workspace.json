@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a1de27170d59d1d9",
+        "id": "c930ecf368dfcc14",
         "type": "tabs",
         "children": [
           {
-            "id": "9e330ab62825362a",
+            "id": "3d4c95c579dfa44e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.1 Worksheet"
             }
           }
         ]
@@ -214,8 +216,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9e330ab62825362a",
+  "active": "3d4c95c579dfa44e",
   "lastOpenFiles": [
+    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225171128_781.png",
     "Notion/Coding/Web dev resources/Best practices/CSS/Forms.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Margins and paddings.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Apply the border-box property to all elements.md",
@@ -242,7 +245,6 @@
     "Notion/Coding/Web dev resources/Books/Frontend.md",
     "Notion/Coding/Web dev resources/Books/Design.md",
     "Notion/Coding/Web dev resources/Books/Content.md",
-    "Notion/Coding/Web dev resources/Tech stack/React/React.md",
     "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments/Untitled 1.png",
     "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments/Untitled.png",
     "Notion/Coding/Web dev resources/Deployment and CI-CD/Deployment of a JavaScript project/attachments/Untitled.png",
