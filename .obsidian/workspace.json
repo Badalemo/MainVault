@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7568b2312b143aa5",
+        "id": "a1de27170d59d1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "fd31208d969c7bc9",
+            "id": "9e330ab62825362a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.1 Worksheet"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -158,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3.1 Worksheet"
+              "title": "Outline"
             }
           },
           {
@@ -217,37 +214,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fd31208d969c7bc9",
+  "active": "9e330ab62825362a",
   "lastOpenFiles": [
-    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225200845_954.png",
-    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225200714_437.png",
-    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225200312_326.png",
-    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225195939_648.png",
-    "Excalidraw/Calculus/Chapter 3/attachments",
-    "Images/Pasted Image 20250225195305_146.png",
-    "Images/Pasted Image 20250225185744_778.png",
-    "Images/Pasted Image 20250225185433_865.png",
-    "Images/Pasted Image 20250225185357_832.png",
-    "Images/Pasted Image 20250225184240_944.png",
-    "Images/Pasted Image 20250225183943_587.png",
-    "Images/Pasted Image 20250225181235_402.png",
-    "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
-    "Images",
-    "InkTest.md",
-    "Excalidraw/Test.md",
-    "Excalidraw/Calculus/Chapter 2/Limits.md",
-    "Excalidraw/Calculus/Chapter 3/Untitled.md",
-    "Excalidraw/Calculus/Chapter 3",
-    "Excalidraw/Calculus/Chapter 2",
-    "Excalidraw/Calculus/Untitled.md",
-    "Excalidraw/Calculus",
-    "Excalidraw",
-    "Ink/Drawing/2025.2.21 - 22.36pm.drawing",
-    "Ink/Writing/2025.2.21 - 22.33pm.writing",
-    "Ink/Writing/2025.2.21 - 22.35pm.writing",
-    "Ink/Drawing",
-    "Welcome.md",
-    "2025-02-21.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Forms.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Margins and paddings.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Apply the border-box property to all elements.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Writing CSS best practices.md",
+    "Notion/Coding/Web dev resources/Code snippets/React/Filter products dynamically by using search box.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Active Record/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Active Record/Active Record.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Variables.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Rails basics.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Methods.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Ruby basics.md",
+    "Notion/Coding/Web dev resources/ReactJS/Hooks/React hooks use cases.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/What is React.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/setState.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/Higher-Order Components.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/Portals.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/React components definition.md",
+    "Notion/Coding/Web dev resources/JavaScript/My Notes on JavaScript/Recursion.md",
+    "Notion/Coding/Web dev resources/JavaScript/My Notes on JavaScript/Most useful DOM manipulation methods and properties.md",
+    "Notion/Coding/Web dev resources/People/Guillermo Rauch.md",
+    "Notion/Coding/Web dev resources/Books/eBooks.md",
+    "Notion/Coding/Web dev resources/Books/Responsive Web Design (RWD).md",
+    "Notion/Coding/Web dev resources/Books/Development.md",
+    "Notion/Coding/Web dev resources/Books/Frontend.md",
+    "Notion/Coding/Web dev resources/Books/Design.md",
+    "Notion/Coding/Web dev resources/Books/Content.md",
+    "Notion/Coding/Web dev resources/Tech stack/React/React.md",
+    "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments/Untitled 1.png",
+    "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/Deployment and CI-CD/Deployment of a JavaScript project/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/Best practices/GitHub/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/Cheatsheets/JavaScript/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/Cheatsheets/CSS Selectors/attachments/CSS_selectors_cheatsheet.pdf",
+    "Notion/Coding/Web dev resources/ReactJS/Using props/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/ReactJS/Using CSS styles in our components/attachments/Untitled.png",
+    "Notion/Coding/Web dev resources/ReactJS/Relationship between React project files/attachments/Untitled.png",
+    "Notion/Coding/Programming Languages Database/Ruby/attachments/Capa_Notion_(8).png",
+    "Notion/Coding/Web dev resources/SQL (full notes)/attachments/sql-code.txt",
+    "Notion/Global Geography/What is Colonialism/attachments/What_is_colonialism_20250218_0001.pdf",
+    "Notion/Global Geography/The global geographer - textbook questions beginning on page 7/attachments/The_global_geographer_-_textbook_questions_beginning_on_page_7_20250218_0001.pdf",
+    "Notion/Global Geography/Poverty Inc., 2014/attachments/Poverty_Inc._2014_20250218_0001.pdf",
+    "Notion/Global Geography/The Agricultural and Industrial Revolution/attachments/The_agricultural_and_industrial_revolutions_20250218_0001.pdf",
+    "Notion/Global Geography/Introduction to Global Geography/attachments/Global_Geo_introduction.pdf",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Active Record/attachments",
+    "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments",
+    "Notion/Coding/Web dev resources/Best practices/GitHub/attachments",
     "Untitled.canvas"
   ]
 }
