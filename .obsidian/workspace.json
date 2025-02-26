@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +217,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "fd31208d969c7bc9",
   "lastOpenFiles": [
+    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225200312_326.png",
+    "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225195939_648.png",
+    "Excalidraw/Calculus/Chapter 3/attachments",
     "Images/Pasted Image 20250225195305_146.png",
     "Images/Pasted Image 20250225185744_778.png",
     "Images/Pasted Image 20250225185433_865.png",
@@ -230,8 +233,6 @@
     "Images",
     "Images/Pasted Image 20250225172318_025.png",
     "Images/Pasted Image 20250225172144_532.png",
-    "Images/Pasted Image 20250225172044_140.png",
-    "Images/Pasted Image 20250225172003_177.png",
     "InkTest.md",
     "Excalidraw/Test.md",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
@@ -245,7 +246,6 @@
     "Ink/Writing/2025.2.21 - 22.33pm.writing",
     "Ink/Writing/2025.2.21 - 22.35pm.writing",
     "Ink/Drawing",
-    "Ink/Writing",
     "Welcome.md",
     "2025-02-21.md",
     "Untitled.canvas"
