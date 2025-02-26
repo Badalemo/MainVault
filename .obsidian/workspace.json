@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Calculus/Chapter 2/Chapter 2 Review.md"
+                "file": "School/Calculus/Chapter 2/Chapter 2 Review.md"
               },
               "icon": "excalidraw-icon",
               "title": "Chapter 2 Review"
@@ -229,22 +229,24 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "12b3cc2e04e9543e",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.md",
+    "School/Calculus/Chapter 2/Chapter 2 Review.md",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225225114_111.png",
     "desktop.ini",
-    "Excalidraw/Calculus/Chapter 2/Chapter 2 Review.md",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225220454_983.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225214958_626.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225214850_977.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225214817_484.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225214743_479.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225214612_665.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225214452_657.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225213536_008.png",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225213049_906.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225220454_983.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214958_626.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214850_977.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214817_484.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214743_479.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214612_665.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214452_657.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225213536_008.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225213049_906.png",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
-    "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
-    "Excalidraw/Calculus/Chapter 2/attachments/Pasted Image 20250225210124_195.png",
+    "School/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Forms.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Margins and paddings.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Apply the border-box property to all elements.md",
@@ -266,7 +268,6 @@
     "Notion/Coding/Web dev resources/People/Guillermo Rauch.md",
     "Notion/Coding/Web dev resources/Books/eBooks.md",
     "Notion/Coding/Web dev resources/Books/Responsive Web Design (RWD).md",
-    "Notion/Coding/Web dev resources/Books/Development.md",
     "Notion/Coding/Web dev resources/Cheatsheets/CSS Selectors/attachments/CSS_selectors_cheatsheet.pdf",
     "Notion/Coding/Web dev resources/SQL (full notes)/attachments/sql-code.txt",
     "Notion/Global Geography/What is Colonialism/attachments/What_is_colonialism_20250218_0001.pdf",
@@ -276,7 +277,6 @@
     "Notion/Global Geography/Introduction to Global Geography/attachments/Global_Geo_introduction.pdf",
     "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Active Record/attachments",
     "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments",
-    "Notion/Coding/Web dev resources/Best practices/GitHub/attachments",
     "Untitled.canvas"
   ]
 }
