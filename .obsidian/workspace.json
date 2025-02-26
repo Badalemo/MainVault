@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Chapter 3.1 Worksheet"
             }
+          },
+          {
+            "id": "12b3cc2e04e9543e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Calculus/Chapter 2/Drawing 2025-02-25 21.25.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-25 21.25.30.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,9 +229,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b731a9a5264222bf",
+  "active": "12b3cc2e04e9543e",
   "lastOpenFiles": [
     "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
+    "Excalidraw/Calculus/Chapter 2/Drawing 2025-02-25 21.25.30.excalidraw.md",
     "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225210124_195.png",
     "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225205909_540.png",
     "Excalidraw/Calculus/Chapter 3/attachments/Pasted Image 20250225205524_879.png",
@@ -248,7 +262,6 @@
     "Notion/Coding/Web dev resources/Books/Development.md",
     "Notion/Coding/Web dev resources/Books/Frontend.md",
     "Notion/Coding/Web dev resources/Books/Design.md",
-    "Notion/Coding/Web dev resources/Books/Content.md",
     "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments/Untitled 1.png",
     "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments/Untitled.png",
     "Notion/Coding/Web dev resources/Deployment and CI-CD/Deployment of a JavaScript project/attachments/Untitled.png",
