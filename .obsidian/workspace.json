@@ -13,26 +13,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Calculus/Chapter 3/Chapter 3.1 Worksheet.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.1 Worksheet"
-            }
-          },
-          {
-            "id": "12b3cc2e04e9543e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "School/Calculus/Chapter 2/Chapter 2 Review.md"
               },
               "icon": "excalidraw-icon",
               "title": "Chapter 2 Review"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +31,6 @@
       {
         "id": "fef0cd9c8cd9f17e",
         "type": "tabs",
-        "dimension": 80.0952380952381,
         "children": [
           {
             "id": "79a80faadf28fcff",
@@ -89,12 +75,11 @@
         ]
       },
       {
-        "id": "3114751d36077fbc",
+        "id": "c225caa3b2ac4d1a",
         "type": "tabs",
-        "dimension": 19.904761904761905,
         "children": [
           {
-            "id": "b731a9a5264222bf",
+            "id": "12b3cc2e04e9543e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -107,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 368.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -215,9 +200,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "local-backup:Run local backup": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "canvas:Create new canvas": false,
@@ -229,11 +214,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "3d4c95c579dfa44e",
   "lastOpenFiles": [
+    "School/Calculus/Chapter 2/Chapter 2 Review.md",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225230525_230.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225230345_615.png",
+    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225225748_245.png",
     "Untitled",
     "Untitled.md",
-    "School/Calculus/Chapter 2/Chapter 2 Review.md",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250225225114_111.png",
     "desktop.ini",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250225220454_983.png",
@@ -242,9 +230,6 @@
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214817_484.png",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214743_479.png",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214612_665.png",
-    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225214452_657.png",
-    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225213536_008.png",
-    "School/Calculus/Chapter 2/attachments/Pasted Image 20250225213049_906.png",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
     "School/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Forms.md",
@@ -276,7 +261,6 @@
     "Notion/Global Geography/The Agricultural and Industrial Revolution/attachments/The_agricultural_and_industrial_revolutions_20250218_0001.pdf",
     "Notion/Global Geography/Introduction to Global Geography/attachments/Global_Geo_introduction.pdf",
     "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Active Record/attachments",
-    "Notion/Coding/Web dev resources/Tech stack/Firebase/attachments",
     "Untitled.canvas"
   ]
 }
