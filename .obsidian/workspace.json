@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Chapter 2 Review"
             }
+          },
+          {
+            "id": "ba3e670e660468fc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.2 Differentiability"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,9 +227,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "3d4c95c579dfa44e",
+  "active": "12b3cc2e04e9543e",
   "lastOpenFiles": [
+    "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 2/Chapter 2 Review.md",
+    "School/Calculus/Chapter 3/Untitled.md",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250226231059_633.png",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250226180220_002.png",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250226180134_521.png",
@@ -252,7 +267,6 @@
     "Notion/Coding/Web dev resources/JavaScript/My Notes on JavaScript/Most useful DOM manipulation methods and properties.md",
     "Notion/Coding/Web dev resources/People/Guillermo Rauch.md",
     "Notion/Coding/Web dev resources/Books/eBooks.md",
-    "Notion/Coding/Web dev resources/Books/Responsive Web Design (RWD).md",
     "Notion/Coding/Web dev resources/Cheatsheets/CSS Selectors/attachments/CSS_selectors_cheatsheet.pdf",
     "Notion/Coding/Web dev resources/SQL (full notes)/attachments/sql-code.txt",
     "Notion/Global Geography/What is Colonialism/attachments/What_is_colonialism_20250218_0001.pdf",
