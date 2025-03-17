@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "317489034f09bbc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c930ecf368dfcc14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3e44f4d0d639d1c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 Worksheet Day 1"
+            }
+          },
+          {
+            "id": "666dfbe0337ed549",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 3.3 worksheet day 1_20250317_0001"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "330e4f7e3d945887",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef0cd9c8cd9f17e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79a80faadf28fcff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2781e447246c507d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "afca8af392e57326",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c225caa3b2ac4d1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "630461a804934140",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "ec28f1de42fbc473",
+    "type": "split",
+    "children": [
+      {
+        "id": "075abe5a3b526aa9",
+        "type": "tabs",
+        "dimension": 57.87545787545789,
+        "children": [
+          {
+            "id": "7da4ffd3f46a11f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "48a63a763e5c5223",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "81db8eb117d2e218",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47d6b5d15c133e5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2ac4f0dfb0834ec2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "97bae09a01df6a91",
+        "type": "tabs",
+        "dimension": 42.12454212454211,
+        "children": [
+          {
+            "id": "27034307006ef19e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
+      "local-backup:Run local backup": false,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c3e44f4d0d639d1c",
+  "lastOpenFiles": [
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf",
+    "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317205200_347.png",
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet 1 front page.pdf",
+    "School/Calculus/Chapter 3/Chapter3.3 worksheet 1 back page.pdf",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317203001_314.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317202655_630.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317202655_612.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317200306_135.png",
+    "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317200707_522.png",
+    "VisionRecall/Notes",
+    "VisionRecall/Temp",
+    "VisionRecall/Intake",
+    "VisionRecall/Screenshots",
+    "VisionRecall",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317195627_530.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317194914_695.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317194551_371.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317194506_989.png",
+    "School/Calculus/Chapter 2/Chapter 2 Review.md",
+    "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
+    "School/Calculus/Chapter 3/attachments",
+    "School/Calculus/Chapter 3/Untitled.md",
+    "Untitled",
+    "Untitled.md",
+    "Excalidraw/Calculus/Chapter 2/Limits.md",
+    "School/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Forms.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Margins and paddings.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Apply the border-box property to all elements.md",
+    "Notion/Coding/Web dev resources/Best practices/CSS/Writing CSS best practices.md",
+    "Notion/Coding/Web dev resources/Code snippets/React/Filter products dynamically by using search box.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Active Record/Active Record.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Variables.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Rails basics.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Methods.md",
+    "Notion/Coding/Web dev resources/Ruby on Rails/Ruby on Rails topics and roadmap (demo)/Ruby basics.md",
+    "Notion/Coding/Web dev resources/ReactJS/Hooks/React hooks use cases.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/What is React.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/setState.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/Higher-Order Components.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/Portals.md",
+    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/React components definition.md",
+    "Notion/Coding/Web dev resources/JavaScript/My Notes on JavaScript/Recursion.md",
+    "Untitled.canvas"
+  ]
+}
