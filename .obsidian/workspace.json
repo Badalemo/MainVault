@@ -11,12 +11,12 @@
             "id": "630461a804934140",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet 1 front page.pdf"
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 3.3 worksheet 1 front page"
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 Worksheet Day 1"
             }
           },
           {
@@ -230,8 +230,12 @@
   },
   "active": "630461a804934140",
   "lastOpenFiles": [
+    "School/Calculus/Chapter 3/Chapter3.3 worksheet 1 back page.pdf",
     "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317194914_695.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317194551_371.png",
     "School/Calculus/Chapter 3/Chapter 3.3 worksheet 1 front page.pdf",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317194506_989.png",
     "School/Calculus/Chapter 2/Chapter 2 Review.md",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317193250_473.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317192828_874.png",
@@ -240,11 +244,8 @@
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317192317_944.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317192222_865.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317191549_630.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317190451_621.png",
     "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250303193855_413.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250303185737_711.png",
     "School/Calculus/Chapter 3/attachments",
     "School/Calculus/Chapter 3/Untitled.md",
     "Untitled",
@@ -274,7 +275,6 @@
     "Notion/Global Geography/What is Colonialism/attachments/What_is_colonialism_20250218_0001.pdf",
     "Notion/Global Geography/The global geographer - textbook questions beginning on page 7/attachments/The_global_geographer_-_textbook_questions_beginning_on_page_7_20250218_0001.pdf",
     "Notion/Global Geography/Poverty Inc., 2014/attachments/Poverty_Inc._2014_20250218_0001.pdf",
-    "Notion/Global Geography/The Agricultural and Industrial Revolution/attachments/The_agricultural_and_industrial_revolutions_20250218_0001.pdf",
     "Untitled.canvas"
   ]
 }
