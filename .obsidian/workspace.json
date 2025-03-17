@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d4c95c579dfa44e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus/Chapter 2/Chapter 2 Review.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 2 Review"
-            }
-          },
-          {
-            "id": "ba3e670e660468fc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.2 Differentiability"
-            }
-          },
-          {
-            "id": "305c6abfb8f5f14e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.2 Differentiability"
-            }
-          },
-          {
             "id": "630461a804934140",
             "type": "leaf",
             "state": {
@@ -54,9 +18,20 @@
               "icon": "excalidraw-icon",
               "title": "Chapter 3.3 Worksheet Day 1"
             }
+          },
+          {
+            "id": "c3e44f4d0d639d1c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet 1 front page.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter 3.3 worksheet 1 front page"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,9 +229,11 @@
   },
   "active": "630461a804934140",
   "lastOpenFiles": [
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317190451_621.png",
     "School/Calculus/Chapter 3/Chapter 3.3 worksheet 1 front page.pdf",
     "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317192222_865.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317191549_630.png",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317190451_621.png",
     "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250303193855_413.png",
@@ -269,9 +246,6 @@
     "School/Calculus/Chapter 3/Untitled.md",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250226231059_633.png",
     "School/Calculus/Chapter 2/attachments/Pasted Image 20250226180220_002.png",
-    "School/Calculus/Chapter 2/attachments/Pasted Image 20250226180134_521.png",
-    "School/Calculus/Chapter 2/attachments/Pasted Image 20250226175936_769.png",
-    "School/Calculus/Chapter 2/attachments/Pasted Image 20250226175833_460.png",
     "Untitled",
     "Untitled.md",
     "desktop.ini",
