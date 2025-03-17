@@ -1,6 +1,7 @@
 {
-  "versionValue": "0.1.8",
+  "versionValue": "0.2.0",
   "startupBackupStatus": false,
+  "onquitBackupStatus": false,
   "lifecycleValue": "3",
   "backupsPerDayValue": "3",
   "maxRetriesValue": "1",
@@ -18,6 +19,8 @@
   "showRibbonIcon": true,
   "showConsoleLog": false,
   "showNotifications": true,
+  "excludedDirectoriesValue": "",
+  "customizedArguments": "",
   "oneWayBackupStatus": false,
   "oneWayWinSavePathValue": "",
   "oneWayUnixSavePathValue": "",
