@@ -11,16 +11,16 @@
             "id": "c3e44f4d0d639d1c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Calculus/Chapter 3/Chapter3.3 worksheet 1 back page.pdf"
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter3.3 worksheet 1 back page"
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 Worksheet Day 1"
             }
           },
           {
-            "id": "e7f25ea600c61e45",
+            "id": "c582736de13d8fec",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -228,11 +228,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7f25ea600c61e45",
+  "active": "c582736de13d8fec",
   "lastOpenFiles": [
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317200306_135.png",
     "School/Calculus/Chapter 3/Chapter3.3 worksheet 1 back page.pdf",
     "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317200306_135.png",
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317200707_522.png",
     "VisionRecall/Notes",
