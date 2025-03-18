@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEarth",
       "LiChartSpline",
       "LiPi",
       "LiSchool"
@@ -35,5 +36,6 @@
   "School": "LiSchool",
   "School/Calculus": "LiPi",
   "School/Calculus/Chapter 2": "LiChartSpline",
-  "School/Calculus/Chapter 3": "LiChartSpline"
+  "School/Calculus/Chapter 3": "LiChartSpline",
+  "School/Global Geography": "LiEarth"
 }
