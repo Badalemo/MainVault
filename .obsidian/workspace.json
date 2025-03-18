@@ -23,12 +23,12 @@
             "id": "2a83126e5ec40fa7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf"
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 3.3 worksheet day 2_20250318_0001"
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 worksheet Day 2 Answers"
             }
           }
         ],
@@ -230,10 +230,12 @@
   },
   "active": "2a83126e5ec40fa7",
   "lastOpenFiles": [
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318183142_539.png",
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
+    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318182910_425.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250318181425_996.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250318181011_262.png",
-    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf",
     "School/Global Geography",
@@ -247,7 +249,6 @@
     "School/Calculus/Chapter 3/Chapter3.3 worksheet 1 back page.pdf",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317203001_314.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317202655_630.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317202655_612.png",
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
     "VisionRecall/Notes",
     "VisionRecall/Temp",
