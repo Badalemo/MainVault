@@ -8,30 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3e44f4d0d639d1c",
+            "id": "3da17faf7dadde2e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md"
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Chapter 3.3 Worksheet Day 1"
+              "title": "Chapter 3.3 worksheet Day 2 Answers"
             }
           },
           {
-            "id": "666dfbe0337ed549",
+            "id": "2a83126e5ec40fa7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf"
+                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Chapter 3.3 worksheet day 1_20250317_0001"
+              "title": "Chapter 3.3 worksheet day 2_20250318_0001"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,12 +228,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "2a83126e5ec40fa7",
   "lastOpenFiles": [
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
+    "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf",
     "School/Global Geography",
     "School/Untitled.md",
-    "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1.md",
-    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317213254_366.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317212423_336.png",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250317211533_856.png",
@@ -253,9 +256,7 @@
     "VisionRecall",
     "School/Calculus/Chapter 2/Chapter 2 Review.md",
     "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
-    "School/Calculus/Chapter 3/attachments",
     "School/Calculus/Chapter 3/Untitled.md",
-    "Untitled",
     "Untitled.md",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
     "School/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
