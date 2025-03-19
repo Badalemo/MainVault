@@ -44,9 +44,33 @@
               "icon": "lucide-file",
               "title": "Profit Tracker"
             }
+          },
+          {
+            "id": "8b2eeff2548c94c4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "f56de1d64d9a57eb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,8 +122,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "a4558444ffd5fc94",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -243,13 +278,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "terminal:Open terminal": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "c208f5facc43d975",
+  "active": "f56de1d64d9a57eb",
   "lastOpenFiles": [
-    "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt",
+    "Tags",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker.md",
+    "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt",
     "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
     "Vim test.md",
     "School/Global Geography 12/Global Geography 12.md",
@@ -277,7 +314,6 @@
     "School/Global Geography 12/Poverty Inc., 2014.md",
     "School/Global Geography 12/attachments",
     "School/Global Geography 12",
-    "School/Computer Programming 12/ProfitTracker/Profit Tracker.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Computer Programming/Untitled.md",
     "School/Untitled.md",
