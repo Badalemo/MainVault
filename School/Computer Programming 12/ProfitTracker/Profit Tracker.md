@@ -1,3 +1,3 @@
 ```
-bro i am the best in 
+bro 
 ```
