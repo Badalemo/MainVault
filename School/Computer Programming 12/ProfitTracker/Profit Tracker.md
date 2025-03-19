@@ -1,1 +1,0 @@
-bolu adalemo is the best in the world you cant o
