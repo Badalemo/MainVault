@@ -27,5 +27,7 @@
   "home-tab",
   "obsidian-statusbar-pomo",
   "cycle-through-panes",
-  "terminal"
+  "terminal",
+  "custom-font-loader",
+  "obsidian-vimrc-support"
 ]
