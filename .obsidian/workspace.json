@@ -35,14 +35,12 @@
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "txt",
               "state": {
-                "file": "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt"
               },
               "icon": "lucide-file",
-              "title": "The Agricultural and Industrial Revolution"
+              "title": "ProfitTracker Report"
             }
           }
         ],
@@ -248,8 +246,8 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
-    "Vim test.md",
     "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
+    "Vim test.md",
     "School/Global Geography 12/Global Geography 12.md",
     "School/Global Geography 12/Introduction to Global Geography.md",
     "School/Global Geography 12/Child Labour Analysis.md",
