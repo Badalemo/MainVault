@@ -31,5 +31,7 @@
   "custom-font-loader",
   "obsidian-vimrc-support",
   "surfing",
-  "folder-notes"
+  "folder-notes",
+  "obsidian-shellcommands",
+  "obsidian42-brat"
 ]
