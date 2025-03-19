@@ -17,5 +17,10 @@
   "data-files-editor",
   "code-styler",
   "vscode-editor",
-  "execute-code"
+  "execute-code",
+  "obsidian-tasks-plugin",
+  "editing-toolbar",
+  "obsidian-image-toolkit",
+  "obsidian-link-embed",
+  "darlal-switcher-plus"
 ]

@@ -35,19 +35,19 @@
     "useInternalPlugins": false
   },
   "School": "LiSchool",
-  "School/Calculus": {
+  "School/Calculus 12": {
     "iconName": "LiPi",
     "iconColor": "#1756e8"
   },
-  "School/Calculus/Chapter 2": "LiChartSpline",
-  "School/Calculus/Chapter 3": "LiChartSpline",
-  "School/Global Geography": {
-    "iconName": "LiEarth",
-    "iconColor": "#1756e8"
-  },
-  "School/Computer Programming": {
+  "School/Calculus 12/Chapter 2": "LiChartSpline",
+  "School/Calculus 12/Chapter 3": "LiChartSpline",
+  "School/Computer Programming 12": {
     "iconName": "LiSquareTerminal",
     "iconColor": "#1756e8"
   },
-  "School/Computer Programming/ProfitTracker": "💰"
+  "School/Computer Programming 12/ProfitTracker": "💰",
+  "School/Global Geography 12": {
+    "iconName": "LiEarth",
+    "iconColor": "#1756e8"
+  }
 }

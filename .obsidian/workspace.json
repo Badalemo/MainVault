@@ -25,7 +25,7 @@
             "state": {
               "type": "txt",
               "state": {
-                "file": "School/Computer Programming/ProfitTracker/ProfitTracker Report.txt"
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt"
               },
               "icon": "lucide-file",
               "title": "ProfitTracker Report"
@@ -37,7 +37,7 @@
             "state": {
               "type": "vscode-editor",
               "state": {
-                "file": "School/Computer Programming/ProfitTracker/ProfitTracker.java"
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
               },
               "icon": "lucide-file",
               "title": "ProfitTracker"
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 244.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,38 +227,38 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
-    "School/Computer Programming/ProfitTracker/ProfitTracker Report.txt",
-    "School/Computer Programming/ProfitTracker/ProfitTracker.java",
-    "School/Computer Programming/ProfitTracker",
-    "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
+    "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
+    "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt",
+    "School/Computer Programming 12/ProfitTracker",
+    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Computer Programming/Untitled.md",
-    "School/Computer Programming",
+    "School/Computer Programming 12",
     "School/Untitled.md",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318190409_865.png",
-    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318190122_587.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318185103_926.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318184820_586.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318184255_460.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318183142_539.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318182910_425.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318181425_996.png",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250318181011_262.png",
-    "School/Calculus/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
-    "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf",
-    "School/Global Geography",
-    "School/Calculus/Chapter 3/attachments/Pasted Image 20250317213254_366.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190409_865.png",
+    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190122_587.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318185103_926.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318184820_586.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318184255_460.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318183142_539.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318182910_425.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318181425_996.png",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318181011_262.png",
+    "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
+    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 1_20250317_0001.pdf",
+    "School/Global Geography 12",
+    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250317213254_366.png",
     "School/Calculus/Chapter 3/Chapter 3.3 worksheet 1 front page.pdf",
     "School/Calculus/Chapter 3/Chapter3.3 worksheet 1 back page.pdf",
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
     "VisionRecall/Notes",
     "VisionRecall/Temp",
-    "School/Calculus/Chapter 2/Chapter 2 Review.md",
-    "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
+    "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
+    "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/Untitled.md",
     "Untitled.md",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
-    "School/Calculus/Chapter 3/Chapter 3.1 Worksheet.md",
+    "School/Calculus 12/Chapter 3/Chapter 3.1 Worksheet.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Forms.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Margins and paddings.md",
     "Notion/Coding/Web dev resources/Best practices/CSS/Apply the border-box property to all elements.md",
