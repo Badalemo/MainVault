@@ -35,12 +35,14 @@
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
-              "type": "txt",
+              "type": "markdown",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt"
+                "file": "School/Computer Programming 12/ProfitTracker/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ProfitTracker Report"
+              "title": "Untitled"
             }
           }
         ],
@@ -246,6 +248,8 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
+    "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt",
+    "School/Computer Programming 12/ProfitTracker/Untitled.md",
     "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
     "Vim test.md",
     "School/Global Geography 12/Global Geography 12.md",
@@ -274,7 +278,6 @@
     "School/Global Geography 12/attachments",
     "School/Global Geography 12",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker.md",
-    "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Computer Programming/Untitled.md",
     "School/Untitled.md",
@@ -290,7 +293,6 @@
     "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/Untitled.md",
-    "Excalidraw/Calculus/Chapter 2/Limits.md",
     "Untitled.canvas"
   ]
 }
