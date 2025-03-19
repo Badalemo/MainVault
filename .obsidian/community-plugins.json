@@ -13,5 +13,9 @@
   "obsidian-style-settings",
   "obsidian-languagetool-plugin",
   "settings-search",
-  "obsidian-linter"
+  "obsidian-linter",
+  "data-files-editor",
+  "code-styler",
+  "vscode-editor",
+  "execute-code"
 ]

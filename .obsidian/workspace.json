@@ -23,16 +23,28 @@
             "id": "2a83126e5ec40fa7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "txt",
               "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
+                "file": "School/Computer Programming/ProfitTracker/ProfitTracker Report.txt"
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.3 worksheet Day 2 Answers"
+              "icon": "lucide-file",
+              "title": "ProfitTracker Report"
+            }
+          },
+          {
+            "id": "c208f5facc43d975",
+            "type": "leaf",
+            "state": {
+              "type": "vscode-editor",
+              "state": {
+                "file": "School/Computer Programming/ProfitTracker/ProfitTracker.java"
+              },
+              "icon": "lucide-file",
+              "title": "ProfitTracker"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,9 +106,11 @@
           {
             "id": "630461a804934140",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -114,7 +128,6 @@
       {
         "id": "075abe5a3b526aa9",
         "type": "tabs",
-        "dimension": 57.87545787545789,
         "children": [
           {
             "id": "7da4ffd3f46a11f0",
@@ -189,23 +202,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "97bae09a01df6a91",
-        "type": "tabs",
-        "dimension": 42.12454212454211,
-        "children": [
-          {
-            "id": "27034307006ef19e",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -225,14 +221,19 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vscode-editor:Create Code File": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "c208f5facc43d975",
   "lastOpenFiles": [
+    "School/Computer Programming/ProfitTracker/ProfitTracker Report.txt",
+    "School/Computer Programming/ProfitTracker/ProfitTracker.java",
+    "School/Computer Programming/ProfitTracker",
+    "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
+    "School/Computer Programming/Untitled.md",
     "School/Computer Programming",
     "School/Untitled.md",
-    "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250318190409_865.png",
     "School/Calculus/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "School/Calculus/Chapter 3/attachments/Pasted Image 20250318190122_587.png",
@@ -252,9 +253,6 @@
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
     "VisionRecall/Notes",
     "VisionRecall/Temp",
-    "VisionRecall/Intake",
-    "VisionRecall/Screenshots",
-    "VisionRecall",
     "School/Calculus/Chapter 2/Chapter 2 Review.md",
     "School/Calculus/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/Untitled.md",
@@ -275,7 +273,6 @@
     "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/What is React.md",
     "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/setState.md",
     "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/Higher-Order Components.md",
-    "Notion/Coding/Web dev resources/ReactJS/React topics and roadmap (demo)/Portals.md",
     "Untitled.canvas"
   ]
 }
