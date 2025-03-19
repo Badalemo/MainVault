@@ -44,33 +44,9 @@
               "icon": "lucide-file",
               "title": "Profit Tracker"
             }
-          },
-          {
-            "id": "8b2eeff2548c94c4",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "f56de1d64d9a57eb",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,7 +258,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f56de1d64d9a57eb",
+  "active": "c208f5facc43d975",
   "lastOpenFiles": [
     "Tags",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker.md",

@@ -35,7 +35,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//School"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
