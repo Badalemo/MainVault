@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSquareTerminal",
+      "LiTerminal",
       "LiEarth",
       "LiChartSpline",
-      "LiPi",
-      "LiSchool"
+      "LiPi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,8 +35,12 @@
     "useInternalPlugins": false
   },
   "School": "LiSchool",
-  "School/Calculus": "LiPi",
+  "School/Calculus": {
+    "iconName": "LiPi",
+    "iconColor": "#1756e8"
+  },
   "School/Calculus/Chapter 2": "LiChartSpline",
   "School/Calculus/Chapter 3": "LiChartSpline",
-  "School/Global Geography": "LiEarth"
+  "School/Global Geography": "LiEarth",
+  "School/Computer Programming": "LiSquareTerminal"
 }
