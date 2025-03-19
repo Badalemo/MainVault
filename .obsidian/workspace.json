@@ -201,6 +201,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "887de5be62394c17",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -238,6 +248,8 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
+    "Vim test.md",
+    "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
     "School/Global Geography 12/Global Geography 12.md",
     "School/Global Geography 12/Introduction to Global Geography.md",
     "School/Global Geography 12/Child Labour Analysis.md",
@@ -261,7 +273,6 @@
     "School/Global Geography 12/What is Colonialism.md",
     "School/Global Geography 12/The global geographer - textbook questions beginning on page 7.md",
     "School/Global Geography 12/Poverty Inc., 2014.md",
-    "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
     "School/Global Geography 12/attachments",
     "School/Global Geography 12",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker.md",
@@ -281,7 +292,6 @@
     "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/Untitled.md",
-    "Untitled.md",
     "Excalidraw/Calculus/Chapter 2/Limits.md",
     "Untitled.canvas"
   ]
