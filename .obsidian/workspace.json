@@ -222,7 +222,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-importer:Open Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "vscode-editor:Create Code File": false
+      "vscode-editor:Create Code File": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "c208f5facc43d975",
