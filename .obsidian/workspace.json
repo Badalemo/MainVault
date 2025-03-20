@@ -11,10 +11,12 @@
             "id": "b7c93f4fd253559b",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "mk-space",
+              "state": {
+                "path": "Tags"
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
             }
           }
         ]
