@@ -11,12 +11,14 @@
             "id": "ce982f0404e77343",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
+                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ProfitTracker"
+              "title": "Profit Tracker Report"
             }
           }
         ]
@@ -223,7 +225,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "630461a804934140",
+  "active": "ce982f0404e77343",
   "lastOpenFiles": [
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
