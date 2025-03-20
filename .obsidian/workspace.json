@@ -35,12 +35,12 @@
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "vscode-editor",
               "state": {
-                "file": "School/Calculus 12/Chapter 2/Chapter 2 Review.md"
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 2 Review"
+              "icon": "lucide-file",
+              "title": "ProfitTracker"
             }
           }
         ],
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,8 +107,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 2 Review"
+              "title": "Backlinks for ProfitTracker"
             }
           },
           {
@@ -307,8 +306,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c208f5facc43d975",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Global Geography 12/attachments/What_is_colonialism_20250218_0001.pdf",
@@ -350,7 +350,6 @@
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318182910_425.png",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "School/Calculus/Chapter 3/attachments/Drawing 2025-03-17 18.35.13.excalidraw.md",
-    "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Calculus/Chapter 3/Untitled.md",
     "Untitled.canvas"
