@@ -23,14 +23,12 @@
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
-                "mode": "source",
-                "source": false
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "Profit Tracker Report"
+              "title": "Tags"
             }
           }
         ],
@@ -299,8 +297,8 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
-    "Tags/#programming",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
+    "Tags/#programming",
     "Programming/Programming.md",
     "Programming",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
@@ -324,7 +322,6 @@
     "School/Global Geography 12/attachments/Africa-in-1885.gif",
     "School/Global Geography 12/attachments/Poverty_Inc._2014_20250218_0001.pdf",
     "School/Global Geography 12/attachments/The_agricultural_and_industrial_revolutions_20250218_0001.pdf",
-    "School/Global Geography 12/attachments/Global_Geo_introduction.pdf",
     "School/Global Geography 12/Poverty - an analysis.md",
     "School/Global Geography 12/Gov and economies text and questions.md",
     "School/Global Geography 12/The Fragile Planet Introduction.md",
