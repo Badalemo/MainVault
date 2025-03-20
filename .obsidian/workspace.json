@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2a83126e5ec40fa7",
-            "type": "leaf",
-            "state": {
-              "type": "txt",
-              "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt"
-              },
-              "icon": "lucide-file",
-              "title": "ProfitTracker Report"
-            }
-          },
-          {
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +86,7 @@
             }
           },
           {
-            "id": "3a9ff246a6e5408d",
+            "id": "8d8eadf75ff5d2b1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -309,6 +297,7 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
+    "Tags/#programming",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Programming/Programming.md",
     "Programming",
