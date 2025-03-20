@@ -1,7 +1,7 @@
 {
   "lastVersion": "3.1.4",
-  "aestheticStyle": "default",
-  "positionStyle": "fixed",
+  "aestheticStyle": "glass",
+  "positionStyle": "top",
   "menuCommands": [
     {
       "id": "editing-toolbar:editor-undo",
