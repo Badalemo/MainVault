@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw  ",
+                "query": "tag:#excalidraw  tag:#excalidraw  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +82,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -272,7 +271,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "25bac714aa163bc1",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
     "School/Global Geography 12/Global Geography 12.md",
     "conflict-files-obsidian-git.md",
