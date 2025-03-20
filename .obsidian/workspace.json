@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Tags"
+                "path": "School/Global Geography 12"
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "Global Geography 12"
             }
           }
         ]
@@ -272,7 +272,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce982f0404e77343",
+  "active": "25bac714aa163bc1",
   "lastOpenFiles": [
     "School/Global Geography 12/Global Geography 12.md",
     "conflict-files-obsidian-git.md",
