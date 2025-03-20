@@ -30,7 +30,7 @@ import java.util.List;
  * 1. displayRemainingAmount - This method calculates and displays the remaining profit needed to reach the weekly goal.
  * 2. I updated the enterDailyProfits method to call the displayRemainingAmount method after each daily profit is entered.
 */
-bolu
+
 public class ProfitTracker {
     public static void main(String[] args) {
         ProfitTracker tracker = new ProfitTracker(); // Create an instance of Profit Tracker
