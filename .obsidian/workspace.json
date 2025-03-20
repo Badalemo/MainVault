@@ -11,14 +11,12 @@
             "id": "ce982f0404e77343",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
               },
               "icon": "lucide-file",
-              "title": "Profit Tracker Report"
+              "title": "ProfitTracker"
             }
           }
         ]
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Profit Tracker Report"
+              "title": "Backlinks for ProfitTracker"
             }
           },
           {
@@ -142,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Profit Tracker Report"
+              "title": "Outgoing links from ProfitTracker"
             }
           },
           {
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Profit Tracker Report"
+              "title": "Outline of ProfitTracker"
             }
           },
           {
@@ -227,8 +225,8 @@
   },
   "active": "ce982f0404e77343",
   "lastOpenFiles": [
-    "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
+    "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "conflict-files-obsidian-git.md",
     "School/Global Geography 12/Global Geography 12.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
