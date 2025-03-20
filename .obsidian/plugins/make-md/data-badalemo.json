@@ -35,9 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//School",
-    "//School/School/Computer Programming 12"
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
