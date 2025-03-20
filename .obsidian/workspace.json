@@ -11,28 +11,13 @@
             "id": "3da17faf7dadde2e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.3 worksheet Day 2 Answers"
-            }
-          },
-          {
-            "id": "c208f5facc43d975",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Tags"
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,19 +69,9 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "8d8eadf75ff5d2b1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -295,7 +270,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c208f5facc43d975",
+  "active": "3da17faf7dadde2e",
   "lastOpenFiles": [
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Tags/#programming",
