@@ -35,14 +35,12 @@
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
-                "mode": "source",
-                "source": false
+                "path": "spaces://$tags"
               },
               "icon": "lucide-file",
-              "title": "Profit Tracker Report"
+              "title": "Tags"
             }
           }
         ],
@@ -311,11 +309,11 @@
   },
   "active": "c208f5facc43d975",
   "lastOpenFiles": [
+    "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Programming/Programming.md",
     "Programming",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
-    "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Global Geography 12/attachments/What_is_colonialism_20250218_0001.pdf",
     "School/Global Geography 12/attachments/image2.png",
