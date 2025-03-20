@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7c93f4fd253559b",
+            "id": "3da17faf7dadde2e",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -16,8 +16,21 @@
               "icon": "search",
               "title": "Home tab"
             }
+          },
+          {
+            "id": "f017d945d3c89bab",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +283,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b7c93f4fd253559b",
+  "active": "f017d945d3c89bab",
   "lastOpenFiles": [
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Tags/#programming",
