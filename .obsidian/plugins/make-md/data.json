@@ -36,7 +36,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//School"
+    "//School",
+    "//School/School/Computer Programming 12",
+    "//School/School/Computer Programming 12/School/Computer Programming 12/ProfitTracker"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
