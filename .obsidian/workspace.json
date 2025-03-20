@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "School/Global Geography 12"
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "Global Geography 12"
+              "title": "Tags"
             }
           }
         ]
