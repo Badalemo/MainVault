@@ -35,11 +35,10 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "//Tags",
     "//School",
     "//School/School/Calculus 12",
-    "//School/School/Calculus 12/School/Calculus 12/Chapter 2"
+    "//School/School/Calculus 12/School/Calculus 12/Chapter 2/School/Calculus 12/Chapter 2/attachments",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
