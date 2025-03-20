@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "2a83126e5ec40fa7",
-            "type": "leaf",
-            "state": {
-              "type": "txt",
-              "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt"
-              },
-              "icon": "lucide-file",
-              "title": "ProfitTracker Report"
-            }
-          },
-          {
             "id": "c208f5facc43d975",
             "type": "leaf",
             "state": {
@@ -40,11 +28,35 @@
                 "path": "spaces://$tags"
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "spaces://$tags"
+            }
+          },
+          {
+            "id": "692280a6060f16b8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "941c49abc9e2602c",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             }
           },
           {
-            "id": "cf0df112d6fbf5b4",
+            "id": "8d8eadf75ff5d2b1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -307,7 +319,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c208f5facc43d975",
+  "active": "941c49abc9e2602c",
   "lastOpenFiles": [
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Programming/Programming.md",
