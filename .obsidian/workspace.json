@@ -11,14 +11,12 @@
             "id": "ce982f0404e77343",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "School/Global Geography 12/Global Geography 12.md",
-                "mode": "source",
-                "source": false
+                "path": "Tags"
               },
               "icon": "lucide-file",
-              "title": "Global Geography 12"
+              "title": "Tags"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "df319753d0b51578",
+            "id": "25bac714aa163bc1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +82,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -275,8 +274,8 @@
   },
   "active": "ce982f0404e77343",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "School/Global Geography 12/Global Geography 12.md",
+    "conflict-files-obsidian-git.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Tags/#programming",
