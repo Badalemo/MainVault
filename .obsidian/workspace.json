@@ -28,35 +28,11 @@
                 "path": "spaces://$tags"
               },
               "icon": "lucide-file",
-              "title": "spaces://$tags"
-            }
-          },
-          {
-            "id": "692280a6060f16b8",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
-            "id": "941c49abc9e2602c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/GetStarted.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/GetStarted.md"
+              "title": "Tags"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,7 +295,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "941c49abc9e2602c",
+  "active": "c208f5facc43d975",
   "lastOpenFiles": [
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "Programming/Programming.md",
