@@ -5,5 +5,6 @@
   "baseFontSize": 16,
   "showViewHeader": true,
   "monospaceFontFamily": "SF Mono",
-  "textFontFamily": "SF Pro Text"
+  "textFontFamily": "SF Pro Text",
+  "interfaceFontFamily": "SF Pro Display"
 }
