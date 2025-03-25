@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "table tag"
+              "title": "Untitled"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of table tag"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -238,10 +238,11 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
+    "Code/table tag.md",
+    "Code/Untitled.md",
     "Code/attachments/Pasted image 20250325200407.png",
     "Code/attachments/Pasted image 20250325200229.png",
     "Code/HTML body tags.md",
-    "Code/table tag.md",
     "Code/attachments/Pasted image 20250325200044.png",
     "Code/attachments/Pasted image 20250325195842.png",
     "Code/attachments/Pasted image 20250325195558.png",
@@ -283,7 +284,6 @@
     "School/Global Geography 12/Introduction to Global Geography.md",
     "School/Global Geography 12/Child Labour Analysis.md",
     "School/Global Geography 12/attachments/image1.png",
-    "School/Global Geography 12/attachments/Africa-in-1885.gif",
     "Untitled.canvas"
   ]
 }
