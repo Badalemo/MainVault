@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
-      "timestamp": 1742863196182
+      "timestamp": 1742863217060
+    },
+    {
+      "filepath": "School/Computer Programming 12/Computer Programming 12.md",
+      "timestamp": 1742863211792
     },
     {
       "filepath": "School/School.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "School/Computer Programming 12/Web Design 12/Web Design 12.md",
       "timestamp": 1742861618739
-    },
-    {
-      "filepath": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
-      "timestamp": 1742861360893
     }
   ],
   "bookmarkedFileStore": [],

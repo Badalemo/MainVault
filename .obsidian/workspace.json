@@ -11,10 +11,14 @@
             "id": "a1d381bed02550fc",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "School/Computer Programming 12/Computer Programming 12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Programming 12"
             }
           }
         ]
@@ -231,7 +235,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "a1d381bed02550fc",
   "lastOpenFiles": [
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/School.md",
