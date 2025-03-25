@@ -1,0 +1,1 @@
+Public Domain pictures are pictures that do not need citations and are fre
