@@ -5,7 +5,7 @@
       "id": "d3d3Lm5vdGlvbi5zbw==",
       "title": "Notion",
       "icon": "globe",
-      "hasRibbon": false,
+      "hasRibbon": true,
       "position": "right",
       "profileKey": "open-gate",
       "url": "www.notion.so",
