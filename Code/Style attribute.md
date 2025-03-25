@@ -1,1 +1,1 @@
-< tagname style = "property:value"
+< tagname style = "property:value;" >
