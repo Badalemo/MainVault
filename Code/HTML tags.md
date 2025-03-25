@@ -1,4 +1,5 @@
 - < html >(needs closing): defines the html codespace
+- < h1,h2,h3,h4,h5,h6 
 - < br >(does not need closing): line break, puts next line in another paragraph or another line
 - < li >(needs closing): makes an ordered list
-- < ul >(needs closing): makes an unor
+- < ul >(needs closing): makes an unordered list
