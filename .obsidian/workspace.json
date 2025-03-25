@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/HTML body tags.md",
+                "file": "Code/Nested Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML body tags"
+              "title": "Nested Lists"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/HTML body tags.md",
+                "file": "Code/Nested Lists.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML body tags"
+              "title": "Outline of Nested Lists"
             }
           },
           {
@@ -238,12 +238,14 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
+    "Code/attachments/Pasted image 20250325102246.png",
+    "Code/HTML head tags.md",
+    "Code/Nested Lists.md",
+    "Code/HTML body tags.md",
     "Code/attachments/Pasted image 20250325102038.png",
     "Code/attachments/Pasted image 20250325101826.png",
     "Code/attachments",
-    "Code/HTML head tags.md",
     "Code/Code.md",
-    "Code/HTML body tags.md",
     "Code",
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
@@ -277,13 +279,11 @@
     "School/Global Geography 12/An introduction to types of governments, economics, SSNPs, and market sectors.md",
     "School/Global Geography 12/attachments/image1.png",
     "School/Global Geography 12/attachments/Africa-in-1885.gif",
-    "School/Global Geography 12/Poverty - an analysis.md",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190409_865.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190122_587.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318185103_926.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318184820_586.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318184255_460.png",
-    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318183142_539.png",
     "Untitled.canvas"
   ]
 }
