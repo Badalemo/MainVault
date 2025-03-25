@@ -4,4 +4,5 @@
 - < br >(does not need closing): line break, puts next line in another paragraph or another line
 - < li >(needs closing): makes a list item, can be used in either ordered or unordered lists
 - < ul >(needs closing): makes an unordered list![[Pasted image 20250325101826.png]]
-- < ol >(needs closing): makes an ordered list
+- < ol >(needs closing): makes an ordered list![[Pasted image 20250325102038.png]]
+- 
