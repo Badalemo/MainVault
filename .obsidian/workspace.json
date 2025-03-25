@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -235,8 +234,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "630461a804934140",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
+    "School/Code/Code.md",
+    "School/Code",
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/School.md",
@@ -253,7 +254,6 @@
     "School/Computer Programming 12/Web Design 12/callofthewild.html",
     "School/Computer Programming 12/Web Design 12/index.html",
     "School/Computer Programming 12/Web Design 12/codehs.html",
-    "School/Computer Programming 12/Web Design 12/othercodehs.html",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "conflict-files-obsidian-git.md",
     "School/Global Geography 12/Global Geography 12.md",
