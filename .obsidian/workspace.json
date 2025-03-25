@@ -11,10 +11,12 @@
             "id": "879da46e2a7c3ca0",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "mk-space",
+              "state": {
+                "path": "Tags"
+              },
+              "icon": "lucide-file",
+              "title": "Tags"
             }
           }
         ]
@@ -223,8 +225,8 @@
   },
   "active": "879da46e2a7c3ca0",
   "lastOpenFiles": [
-    "www.notion.so.md",
     "Tags/Tags.md",
+    "www.notion.so.md",
     "School/School.md",
     "Notion.md",
     "School/Computer Programming 12/Web Design 12/Web Design 12.md",
