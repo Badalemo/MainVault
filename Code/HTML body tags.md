@@ -8,4 +8,4 @@
 - < table > (needs closing): Container for all table data (refer to [[Code/table tag.md|table tag]])
 - < tr > (needs closing): Container for a single row (refer to [[Code/table tag.md|table tag]])
 - < th > (needs closing): Single table header element (refer to [[Code/table tag.md|table tag]])
-- < td > (needs closing): Single table data element (refer to table tag)
+- < td > (needs closing): Single table data element (refer to [[Code/table tag.md|table tag]])
