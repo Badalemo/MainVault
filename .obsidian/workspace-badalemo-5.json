@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ce982f0404e77343",
+            "id": "65ceda8867f7a48f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "School/Computer Programming 12/Web Design 12/Web Design 12.md",
-                "mode": "source",
-                "source": false
+                "url": "file:///C:\\Users\\bolua\\OneDrive\\Documents\\Obsidian\\Main/School/Computer%20Programming%2012/Web%20Design%2012/codehsshortcuts.html"
               },
               "icon": "lucide-file",
-              "title": "Web Design 12"
+              "title": "CodeHS Shortcuts"
             }
           }
         ]
@@ -107,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 328.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -225,28 +223,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ce982f0404e77343",
+  "active": "65ceda8867f7a48f",
   "lastOpenFiles": [
-    "School/Computer Programming 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/Web Design 12/Web Design 12.md",
+    "School/Computer Programming 12/Computer Programming 12.md",
+    "School/Computer Programming 12/Web Design 12/archesnationalpark.html",
+    "School/Computer Programming 12/Web Design 12/usefulresources.html",
+    "School/Computer Programming 12/Web Design 12/vocabularylist.html",
+    "School/Computer Programming 12/Web Design 12/petnames.html",
+    "School/Computer Programming 12/Web Design 12/codehsshortcuts.html",
+    "School/Computer Programming 12/Web Design 12/callofthewild.html",
+    "School/Computer Programming 12/Web Design 12/index.html",
+    "School/Computer Programming 12/Web Design 12/codehs.html",
+    "School/Computer Programming 12/Web Design 12/othercodehs.html",
+    "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/Web Design 12",
-    "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "conflict-files-obsidian-git.md",
     "School/Global Geography 12/Global Geography 12.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
-    "Tags/#programming",
     "Programming/Programming.md",
-    "Programming",
     "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
-    "School/Global Geography 12/attachments/What_is_colonialism_20250218_0001.pdf",
     "School/Global Geography 12/attachments/image2.png",
-    "School/Global Geography 12/attachments/The_global_geographer_-_textbook_questions_beginning_on_page_7_20250218_0001.pdf",
-    "School/Global Geography 12/attachments/Fragile_planet_intro2025.pdf",
     "School/Global Geography 12/Poverty Inc., 2014.md",
-    "Tags",
-    "School/Computer Programming 12/ProfitTracker/ProfitTracker Report.txt",
     "School/Global Geography 12/The Agricultural and Industrial Revolution.md",
     "Vim test.md",
     "School/Global Geography 12/Introduction to Global Geography.md",
@@ -255,7 +255,6 @@
     "School/Global Geography 12/An introduction to types of governments, economics, SSNPs, and market sectors.md",
     "School/Global Geography 12/attachments/image1.png",
     "School/Global Geography 12/attachments/Africa-in-1885.gif",
-    "School/Global Geography 12/attachments/Poverty_Inc._2014_20250218_0001.pdf",
     "School/Global Geography 12/Poverty - an analysis.md",
     "School/Global Geography 12/Gov and economies text and questions.md",
     "School/Global Geography 12/The Fragile Planet Introduction.md",
@@ -272,7 +271,6 @@
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318184255_460.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318183142_539.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318182910_425.png",
-    "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Untitled.canvas"
   ]
 }
