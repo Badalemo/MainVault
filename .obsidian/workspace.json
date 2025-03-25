@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Notion"
             }
+          },
+          {
+            "id": "9c25b9c4a1ab3fef",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://identity.notion.so/authSync"
+              },
+              "icon": "lucide-file",
+              "title": "Notion - Log in"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +238,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e55a1edc2870ffbe",
+  "active": "9c25b9c4a1ab3fef",
   "lastOpenFiles": [
     "Notion.md",
     "School/Computer Programming 12/Web Design 12/Web Design 12.md",
