@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Tags"
+                "path": "School"
               },
               "icon": "lucide-file",
-              "title": "Tags"
+              "title": "School"
             }
           }
         ]
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1152
+    "width": 234.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "879da46e2a7c3ca0",
+  "active": "c018d5237f30c14f",
   "lastOpenFiles": [
     "Tags/Tags.md",
     "www.notion.so.md",
