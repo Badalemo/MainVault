@@ -11,12 +11,14 @@
             "id": "5aba1d38458c2d51",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
+                "file": "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ProfitTracker"
+              "title": "Places to find public domain pictures"
             }
           }
         ]
@@ -169,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
+                "file": "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ProfitTracker"
+              "title": "Outline of Places to find public domain pictures"
             }
           },
           {
@@ -234,8 +236,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "fda5a31cdf79aa46",
+  "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
+    "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/School.md",
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/Computer Programming 12.md",
@@ -274,7 +277,6 @@
     "School/Global Geography 12/Gov and economies text and questions.md",
     "School/Global Geography 12/The Fragile Planet Introduction.md",
     "School/Global Geography 12/Poverty Analysis.md",
-    "School/Global Geography 12/HDI (Human Development Index) Analysis.md",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190409_865.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190122_587.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318185103_926.png",
