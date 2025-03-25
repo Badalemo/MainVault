@@ -207,8 +207,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "open-gate:Notion": false,
       "omnisearch:Omnisearch": false,
+      "open-gate:Notion": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
