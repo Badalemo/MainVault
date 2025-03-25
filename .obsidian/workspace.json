@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/HTML body tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "table tag"
+              "title": "HTML body tags"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/HTML body tags.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of table tag"
+              "title": "Outline of HTML body tags"
             }
           },
           {
@@ -238,9 +238,9 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
+    "Code/table tag.md",
     "Code/attachments/Pasted image 20250325195558.png",
     "Code/HTML body tags.md",
-    "Code/table tag.md",
     "Code/Nested Lists.md",
     "Code/nest lists.md",
     "Code/HTML head tags.md",
@@ -283,7 +283,6 @@
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190409_865.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318190122_587.png",
     "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318185103_926.png",
-    "School/Calculus 12/Chapter 3/attachments/Pasted Image 20250318184820_586.png",
     "Untitled.canvas"
   ]
 }
