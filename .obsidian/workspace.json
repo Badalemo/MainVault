@@ -11,14 +11,12 @@
             "id": "5aba1d38458c2d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "School/School.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
               },
               "icon": "lucide-file",
-              "title": "School"
+              "title": "ProfitTracker"
             }
           }
         ]
@@ -237,9 +235,9 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
+    "School/School.md",
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/Computer Programming 12.md",
-    "School/School.md",
     "Tags/Tags.md",
     "www.notion.so.md",
     "Notion.md",
