@@ -186,19 +186,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "e30d806bf956b296",
-            "type": "leaf",
-            "state": {
-              "type": "d3d3Lm5vdGlvbi5zbw==",
-              "state": {},
-              "icon": "globe",
-              "title": "Notion"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -233,7 +223,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e30d806bf956b296",
+  "active": "2ac4f0dfb0834ec2",
   "lastOpenFiles": [
     "Tags/Tags.md",
     "www.notion.so.md",
