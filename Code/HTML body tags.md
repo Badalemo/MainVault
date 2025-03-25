@@ -2,6 +2,6 @@
 - < h1,h2,h3,h4,h5,h6 >(needs closing): makes the words inside it a header.
 - < p > (needs closing): gives space to write words in default text(i.e write words without header status)
 - < br >(does not need closing): line break, puts next line in another paragraph or another line
-- < li >(needs closing): makes an ordered list
+- < li >(needs closing): list
 - < ul >(needs closing): makes an unordered list![[Pasted image 20250325101826.png]]
 - 
