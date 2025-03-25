@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 343.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -234,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "879da46e2a7c3ca0",
+  "active": "fda5a31cdf79aa46",
   "lastOpenFiles": [
     "School/School.md",
     "Tags/Tags.md",
