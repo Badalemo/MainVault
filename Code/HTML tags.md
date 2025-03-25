@@ -1,1 +1,2 @@
-<html>(needs closing)
+<html>(needs closing): Defines the html workspace
+<
