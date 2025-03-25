@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "780ed42a12aa1a8c",
+        "id": "3a4c6df7912583c3",
         "type": "tabs",
         "children": [
           {
-            "id": "e55a1edc2870ffbe",
+            "id": "879da46e2a7c3ca0",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "file:///C:\\Users\\bolua\\OneDrive\\Documents\\Obsidian\\Main/School/Computer%20Programming%2012/Web%20Design%2012/codehsshortcuts.html"
-              },
-              "icon": "lucide-file",
-              "title": "CodeHS Shortcuts"
-            }
-          },
-          {
-            "id": "9c25b9c4a1ab3fef",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://code.gist.build/renderer/0.4.5/index.html#/"
-              },
-              "icon": "lucide-file",
-              "title": "Surfing"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +221,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f488c2cfb695564",
+  "active": "879da46e2a7c3ca0",
   "lastOpenFiles": [
     "www.notion.so.md",
     "Tags/Tags.md",
