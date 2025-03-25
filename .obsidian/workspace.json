@@ -27,7 +27,7 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://identity.notion.so/authSync"
+                "url": "https://code.gist.build/renderer/0.4.5/index.html#/"
               },
               "icon": "lucide-file",
               "title": "Global Geography"
@@ -120,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 221.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -238,7 +238,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9c25b9c4a1ab3fef",
+  "active": "9f488c2cfb695564",
   "lastOpenFiles": [
     "Notion.md",
     "School/Computer Programming 12/Web Design 12/Web Design 12.md",
