@@ -1,7 +1,7 @@
 - < html > (needs closing): defines the html code space
 - < h1, h2, h3, h4, h5, h6 > (needs closing): makes the words inside it a header.
-- < p > (needs closing): gives space to write words in default text(i.e write words without header status)
-- < br >(does not need closing): line break, puts next line in another paragraph or another line
+- < p > (needs closing): gives space to write words in default text (i.e. write words without header status)
+- < br > (does not need closing): line break, puts next line in another paragraph or another line
 - < li >(needs closing): defines a list item, can be used in both ul and ol lists
 - < ul >(needs closing): makes an unordered list(you can also [[Code/Nested Lists.md|nest lists]])![[Pasted image 20250325101826.png]]
 - < ol >(needs closing): makes an ordered list(you can also [[Code/Nested Lists.md|nest lists]])![[Pasted image 20250325102038.png]]
