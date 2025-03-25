@@ -196,6 +196,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
@@ -218,8 +219,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "terminal:Open terminal": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "obsidian42-brat:BRAT": false,
-      "omnisearch:Omnisearch": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "79a80faadf28fcff",
