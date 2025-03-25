@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e3dd4662ceb1416",
+            "id": "65ceda8867f7a48f",
             "type": "leaf",
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "file:///C:\\Users\\bolua\\OneDrive\\Documents\\Obsidian\\Main/School/Computer%20Programming%2012/Web%20Design%2012/codehs.html"
+                "url": "file:///C:\\Users\\bolua\\OneDrive\\Documents\\Obsidian\\Main/School/Computer%20Programming%2012/Web%20Design%2012/codehsshortcuts.html"
               },
               "icon": "lucide-file",
-              "title": "CodeHS"
+              "title": "CodeHS Shortcuts"
             }
           }
         ]
@@ -223,7 +223,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9e3dd4662ceb1416",
+  "active": "65ceda8867f7a48f",
   "lastOpenFiles": [
     "School/Computer Programming 12/Web Design 12/Web Design 12.md",
     "School/Computer Programming 12/Computer Programming 12.md",
