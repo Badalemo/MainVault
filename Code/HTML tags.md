@@ -1,5 +1,5 @@
 - < html >(needs closing): defines the html codespace
-- < h1,h2,h3,h4,h5,h6 >(needs closing): makes the words inside it a header. e.g(this is h2)
+- < h1,h2,h3,h4,h5,h6 >(needs closing): makes the words inside it a header. e.g(<h2>Bolu<)
 - < br >(does not need closing): line break, puts next line in another paragraph or another line
 - < li >(needs closing): makes an ordered list
 - < ul >(needs closing): makes an unordered list
