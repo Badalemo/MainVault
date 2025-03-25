@@ -3,4 +3,5 @@
 - < p > (needs closing): gives space to write words in default text(i.e write words without header status)
 - < br >(does not need closing): line break, puts next line in another paragraph or another line
 - < li >(needs closing): makes an ordered list
-- < ul >(needs closing): makes an unordered list
+- < ul >(needs closing): makes an unordered list![[Pasted image 20250325101826.png]]
+- 
