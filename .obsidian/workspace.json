@@ -11,12 +11,14 @@
             "id": "e55a1edc2870ffbe",
             "type": "leaf",
             "state": {
-              "type": "surfing-view",
+              "type": "markdown",
               "state": {
-                "url": "file:///C:\\Users\\bolua\\OneDrive\\Documents\\Obsidian\\Main/School/Computer%20Programming%2012/Web%20Design%2012/codehsshortcuts.html"
+                "file": "Notion.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CodeHS Shortcuts"
+              "title": "Notion"
             }
           }
         ]
@@ -223,9 +225,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f488c2cfb695564",
+  "active": "e55a1edc2870ffbe",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Notion.md",
     "School/Computer Programming 12/Web Design 12/Web Design 12.md",
     "School/Computer Programming 12/Computer Programming 12.md",
     "School/Computer Programming 12/Web Design 12/archesnationalpark.html",
