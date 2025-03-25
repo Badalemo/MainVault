@@ -6,4 +6,4 @@
 - < ul > (needs closing): makes an unordered list(you can also [[Code/Nested Lists.md|nest lists]])![[Pasted image 20250325101826.png]]
 - < ol >(needs closing): makes an ordered list(you can also [[Code/Nested Lists.md|nest lists]])![[Pasted image 20250325102038.png]]
 - < table > (needs closing): Container for all table data (refer to [[Code/table tag.md|table tag]])
-- < tr > (needs closing): Contain
+- < tr > (needs closing): Container for a single row (refer to table tag)
