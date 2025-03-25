@@ -11,12 +11,12 @@
             "id": "ce982f0404e77343",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "mk-space",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java"
+                "path": "School/Computer Programming 12"
               },
               "icon": "lucide-file",
-              "title": "ProfitTracker"
+              "title": "Computer Programming 12"
             }
           }
         ]
@@ -223,10 +223,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9f488c2cfb695564",
+  "active": "ce982f0404e77343",
   "lastOpenFiles": [
-    "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
+    "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "conflict-files-obsidian-git.md",
     "School/Global Geography 12/Global Geography 12.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
