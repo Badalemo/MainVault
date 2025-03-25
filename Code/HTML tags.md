@@ -1,3 +1,3 @@
 - < html >(needs closing): defines the html codespace
-- < br >
+- < br >(does not need closing)
 - 
