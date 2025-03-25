@@ -82,7 +82,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -233,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5aba1d38458c2d51",
+  "active": "fda5a31cdf79aa46",
   "lastOpenFiles": [
     "School/School.md",
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
