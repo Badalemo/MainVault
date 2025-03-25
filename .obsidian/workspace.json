@@ -11,10 +11,12 @@
             "id": "672fb6551d65c549",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "surfing-view",
+              "state": {
+                "url": "https://identity.notion.so/authSync"
+              },
+              "icon": "lucide-file",
+              "title": "Notion - Log in"
             }
           }
         ]
