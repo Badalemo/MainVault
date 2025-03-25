@@ -171,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Places to find public domain pictures"
+              "title": "Outline"
             }
           },
           {
@@ -236,7 +235,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5aba1d38458c2d51",
+  "active": "630461a804934140",
   "lastOpenFiles": [
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
