@@ -1,4 +1,16 @@
 {
   "uuid": "6r31no226setocubjbplp",
-  "gates": {}
+  "gates": {
+    "d3d3Lm5vdGlvbi5zbw==": {
+      "id": "d3d3Lm5vdGlvbi5zbw==",
+      "title": "Notion",
+      "icon": "globe",
+      "hasRibbon": false,
+      "position": "right",
+      "profileKey": "open-gate",
+      "url": "www.notion.so",
+      "zoomFactor": 1,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0/HBpt3US8-18"
+    }
+  }
 }
