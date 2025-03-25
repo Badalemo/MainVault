@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "1955dabddefdb442",
+            "id": "b5c69cf85b1e56c3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,7 +82,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -233,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "aec08da75b5505e9",
+  "active": "879da46e2a7c3ca0",
   "lastOpenFiles": [
     "Tags/Tags.md",
     "www.notion.so.md",
