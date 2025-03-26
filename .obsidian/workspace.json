@@ -11,14 +11,12 @@
             "id": "5aba1d38458c2d51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Code/table tag.md",
-                "mode": "source",
-                "source": false
+                "path": "Code"
               },
               "icon": "lucide-file",
-              "title": "table tag"
+              "title": "Code"
             }
           }
         ]
@@ -171,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of table tag"
+              "title": "Outline of Code"
             }
           },
           {
@@ -236,8 +234,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5aba1d38458c2d51",
+  "active": "855028d0b2a70b03",
   "lastOpenFiles": [
+    "Code/table tag.md",
+    "Code/attachments/Pasted image 20250325222441.png",
     "Code/attachments/Pasted image 20250325222416.png",
     "Code/attachments/Pasted image 20250325222349.png",
     "Code/attachments/Pasted image 20250325222318.png",
@@ -246,13 +246,10 @@
     "Code/Style attribute.md",
     "School/Computer Programming 12/Web Design 12/othercodehs.html",
     "Code/attachments/Pasted image 20250325221202.png",
-    "Code/table tag.md",
     "Code/attachments/Pasted image 20250325200407.png",
     "Code/attachments/Pasted image 20250325200229.png",
     "Code/HTML body tags.md",
     "Code/attachments/Pasted image 20250325200044.png",
-    "Code/attachments/Pasted image 20250325195842.png",
-    "Code/attachments/Pasted image 20250325195558.png",
     "Code/Nested Lists.md",
     "Code/nest lists.md",
     "Code/HTML head tags.md",
