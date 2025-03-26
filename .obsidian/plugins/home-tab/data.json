@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Code/HTML body tags.md",
+      "timestamp": 1742954390716
+    },
+    {
+      "filepath": "Code/HTML head tags.md",
+      "timestamp": 1742954390154
+    },
+    {
       "filepath": "Code/Style Properties.md",
       "timestamp": 1742953013490
     },
@@ -34,10 +42,6 @@
     {
       "filepath": "Code/table tag.md",
       "timestamp": 1742952393622
-    },
-    {
-      "filepath": "Code/Code.md",
-      "timestamp": 1742952306746
     }
   ],
   "bookmarkedFileStore": [],
