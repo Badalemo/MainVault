@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "Code/Untitled.md",
-      "timestamp": 1743012536171
+      "filepath": "Code/HTML body tags.md",
+      "timestamp": 1743013344984
     },
     {
-      "filepath": "Code/HTML body tags.md",
-      "timestamp": 1742954390716
+      "filepath": "Code/Style Examples.md",
+      "timestamp": 1743013342234
+    },
+    {
+      "filepath": "Code/Color scheme for logos.md",
+      "timestamp": 1743012536171
     },
     {
       "filepath": "Code/HTML head tags.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Code/Style Properties.md",
       "timestamp": 1742953013490
-    },
-    {
-      "filepath": "Code/Style Examples.md",
-      "timestamp": 1742953006017
     }
   ],
   "bookmarkedFileStore": [],
