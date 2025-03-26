@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Style Properties.md",
+                "file": "Code/Style Examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Style Properties"
+              "title": "Style Examples"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Style Properties.md",
+                "file": "Code/Style Examples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Style Properties"
+              "title": "Outline of Style Examples"
             }
           },
           {
@@ -238,8 +238,8 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
-    "Code/Style Examples.md",
     "Code/Style Properties.md",
+    "Code/Style Examples.md",
     "Code/Property Examples.md",
     "Code/table tag.md",
     "Code/Code.md",
