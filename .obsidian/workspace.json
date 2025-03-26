@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Style Examples.md",
+                "file": "Code/Style Properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Style Examples"
+              "title": "Style Properties"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Style Examples.md",
+                "file": "Code/Style Properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Style Examples"
+              "title": "Outline of Style Properties"
             }
           },
           {
@@ -238,8 +238,9 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
-    "Code/Style Properties.md",
     "Code/Style Examples.md",
+    "Code/attachments/Pasted image 20250325223632.png",
+    "Code/Style Properties.md",
     "Select Note.md",
     "Code/Property Examples.md",
     "Code/table tag.md",
@@ -256,7 +257,6 @@
     "Code/attachments/Pasted image 20250325200407.png",
     "Code/attachments/Pasted image 20250325200229.png",
     "Code/HTML body tags.md",
-    "Code/attachments/Pasted image 20250325200044.png",
     "Code/Nested Lists.md",
     "Code/nest lists.md",
     "Code/HTML head tags.md",
@@ -283,7 +283,6 @@
     "Programming/Programming.md",
     "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
-    "School/Global Geography 12/Poverty Inc., 2014.md",
     "Untitled.canvas"
   ]
 }
