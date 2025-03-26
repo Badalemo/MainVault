@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Select Note.md",
+                "file": "Code/Style Properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Select Note"
+              "title": "Style Properties"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Select Note.md",
+                "file": "Code/Style Properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Select Note"
+              "title": "Outline of Style Properties"
             }
           },
           {
@@ -238,8 +238,8 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
-    "Code/Style Properties.md",
     "Select Note.md",
+    "Code/Style Properties.md",
     "Code/Style Examples.md",
     "Code/Property Examples.md",
     "Code/table tag.md",
