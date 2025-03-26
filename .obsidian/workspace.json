@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/Style Properties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "table tag"
+              "title": "Style Properties"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/table tag.md",
+                "file": "Code/Style Properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of table tag"
+              "title": "Outline of Style Properties"
             }
           },
           {
@@ -238,9 +238,9 @@
   },
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
+    "Code/table tag.md",
     "Code/Style Properties.md",
     "Code/Code.md",
-    "Code/table tag.md",
     "Code/attachments/Pasted image 20250325222441.png",
     "Code/attachments/Pasted image 20250325222416.png",
     "Code/attachments/Pasted image 20250325222349.png",
