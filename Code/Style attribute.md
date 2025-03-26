@@ -1,2 +1,2 @@
 < tagname style = "property:value;" >
-the style attribute defines server
+the style attribute defines several different style 
