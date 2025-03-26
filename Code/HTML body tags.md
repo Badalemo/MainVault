@@ -11,4 +11,5 @@
 - < td > (needs closing): Single table data element (refer to [[Code/table tag.md|table tag]])
 - < strong > (needs closing): makes words bold
 - < em > (needs closing): makes words italic
-- < img src="image link" alt="Test incase the image does not show"> (does not need closing): Allows you to add an image
+- < img src="image link" alt="Test incase the image does not show(this is optional)"> (does not need closing): Allows you to add an image
+- 
