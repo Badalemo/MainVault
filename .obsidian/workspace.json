@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Untitled.md",
+                "file": "Code/Color scheme for logos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Color scheme for logos"
             }
           }
         ]
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Untitled.md",
+                "file": "Code/Color scheme for logos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Color scheme for logos"
             }
           },
           {
@@ -239,7 +239,7 @@
   "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
     "Code/HTML body tags.md",
-    "Code/Untitled.md",
+    "Code/Color scheme for logos.md",
     "Code/Style attribute.md",
     "Code/HTML head tags.md",
     "Code/Style Properties.md",
