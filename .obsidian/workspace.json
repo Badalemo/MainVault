@@ -11,12 +11,10 @@
             "id": "5aba1d38458c2d51",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.3 Worksheet Day 1 Answers"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -233,7 +231,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "817ffba436d88e73",
+  "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Code/HTML body tags.md",
