@@ -11,16 +11,12 @@
             "id": "a0e0f573533dfe29",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
-                "page": 4,
-                "left": -10,
-                "top": 506,
-                "zoom": 1.5269607843137254
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Chapter 3.3 worksheet day 2_20250318_0001"
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 worksheet Day 2 Answers"
             }
           }
         ]
@@ -173,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3.3 worksheet day 2_20250318_0001"
+              "title": "Outline of Chapter 3.3 worksheet Day 2 Answers"
             }
           },
           {
@@ -240,6 +236,7 @@
   },
   "active": "a0e0f573533dfe29",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Code/HTML body tags.md",
     "Code/Style Examples.md",
@@ -285,7 +282,6 @@
     "School/Global Geography 12/Global Geography 12.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "Programming/Programming.md",
-    "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
     "Untitled.canvas"
   ]
 }
