@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "238acf47f556842e",
+            "id": "004a891f26a4bd1d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3.3 Worksheet Day 1 Answers"
+              "title": "Outline"
             }
           },
           {
@@ -234,7 +233,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5aba1d38458c2d51",
+  "active": "0a74574beb34f773",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Code/HTML body tags.md",
