@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "5c392a6e3b6231b3",
+            "id": "3b6fd4b8ca1398a2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3.3 Worksheet Day 1 Answers"
+              "title": "Outline"
             }
           },
           {
@@ -234,8 +233,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5aba1d38458c2d51",
+  "active": "817ffba436d88e73",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Code/HTML body tags.md",
     "Code/Style Examples.md",
     "Code/Color scheme for logos.md",
@@ -281,7 +281,6 @@
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
     "Programming/Programming.md",
     "School/Calculus 12/Chapter 2/Chapter 2 Review.md",
-    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "Untitled.canvas"
   ]
 }
