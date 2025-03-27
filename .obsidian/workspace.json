@@ -169,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chapter 3.3 Worksheet Day 1 Answers"
             }
           },
           {
@@ -206,9 +207,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
       "open-gate:Notion": false,
       "switcher:Open quick switcher": false,
+      "omnisearch:Omnisearch": false,
       "graph:Open graph view": false,
       "obsidian-git:Open Git source control": false,
       "local-backup:Run local backup": false,
@@ -233,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "630461a804934140",
+  "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Code/HTML body tags.md",
