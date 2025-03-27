@@ -11,10 +11,12 @@
             "id": "5aba1d38458c2d51",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 Worksheet Day 1 Answers"
             }
           }
         ]
@@ -167,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chapter 3.3 Worksheet Day 1 Answers"
             }
           },
           {
@@ -231,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "238acf47f556842e",
+  "active": "5aba1d38458c2d51",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "Code/HTML body tags.md",
