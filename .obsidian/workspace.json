@@ -11,10 +11,12 @@
             "id": "5fadef195aa0068c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "mk-space",
+              "state": {
+                "path": "Code"
+              },
+              "icon": "lucide-file",
+              "title": "Code"
             }
           }
         ]
@@ -167,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Code/Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Code"
             }
           },
           {
@@ -231,7 +234,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5fadef195aa0068c",
+  "active": "b197c960e66c096e",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
