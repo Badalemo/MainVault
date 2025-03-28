@@ -5,6 +5,6 @@ Style Examples: "[[Style Examples]]"
 color - text color for the tag
 background-color - background color for the tag
 font-size - size of the font in the tag (in pixels)
-font-family - font family (ie Arial or TImes)
+font-family - font family (ie Arial or Times)
 text-align - alignment of text in the tag
 list-style-type - change the shape and style of your list bullet points
