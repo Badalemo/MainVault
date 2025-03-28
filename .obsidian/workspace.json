@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Code/attachments"
+                "path": "Code/HTML"
               },
               "icon": "lucide-file",
-              "title": "attachments"
+              "title": "HTML"
             }
           }
         ]
@@ -233,10 +233,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "5fadef195aa0068c",
+  "active": "e089dfabd8a1a90c",
   "lastOpenFiles": [
-    "Code/Code.md",
     "Code/HTML/HTML.md",
+    "Code/Code.md",
     "Code/HTML",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
