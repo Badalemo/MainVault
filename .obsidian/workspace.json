@@ -11,12 +11,12 @@
             "id": "5fadef195aa0068c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "excalidraw",
               "state": {
-                "path": "School"
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
               },
-              "icon": "lucide-file",
-              "title": "School"
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.3 worksheet Day 2 Answers"
             }
           }
         ]
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/School.md",
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of School"
+              "title": "Outline of Chapter 3.3 worksheet Day 2 Answers"
             }
           },
           {
@@ -234,8 +234,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "273ccf5b93c3b31b",
+  "active": "5fadef195aa0068c",
   "lastOpenFiles": [
+    "School/School.md",
     "Code/HTML & CSS/Style Properties.md",
     "Code/HTML & CSS/HTML & CSS.md",
     "Code/Code.md",
@@ -268,7 +269,6 @@
     "Code",
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
-    "School/School.md",
     "School/Computer Programming 12/Computer Programming 12.md",
     "Tags/Tags.md",
     "www.notion.so.md",
