@@ -11,12 +11,14 @@
             "id": "5fadef195aa0068c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Code/HTML"
+                "file": "Code/HTML & CSS/Style Properties.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML"
+              "title": "Style Properties"
             }
           }
         ]
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Code/HTML & CSS/Style Properties.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Style Properties"
             }
           },
           {
@@ -233,24 +236,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e089dfabd8a1a90c",
+  "active": "5fadef195aa0068c",
   "lastOpenFiles": [
-    "Code/HTML/HTML.md",
+    "Code/HTML & CSS/HTML & CSS.md",
     "Code/Code.md",
-    "Code/HTML",
+    "Code/HTML & CSS",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
-    "Code/HTML/HTML body tags.md",
-    "Code/HTML/Style Examples.md",
-    "Code/HTML/Color scheme for logos.md",
-    "Code/HTML/Style attribute.md",
-    "Code/HTML/HTML head tags.md",
-    "Code/HTML/Style Properties.md",
+    "Code/HTML & CSS/HTML body tags.md",
+    "Code/HTML & CSS/Style Examples.md",
+    "Code/HTML & CSS/Color scheme for logos.md",
+    "Code/HTML & CSS/Style attribute.md",
+    "Code/HTML & CSS/HTML head tags.md",
+    "Code/HTML & CSS/Style Properties.md",
     "Code/attachments/Pasted image 20250325223632.png",
     "Select Note.md",
     "Code/Property Examples.md",
-    "Code/HTML/table tag.md",
+    "Code/HTML & CSS/table tag.md",
     "Code/attachments/Pasted image 20250325222441.png",
     "Code/attachments/Pasted image 20250325222416.png",
     "Code/attachments/Pasted image 20250325222349.png",
@@ -261,7 +264,7 @@
     "Code/attachments/Pasted image 20250325221202.png",
     "Code/attachments/Pasted image 20250325200407.png",
     "Code/attachments/Pasted image 20250325200229.png",
-    "Code/HTML/Nested Lists.md",
+    "Code/HTML & CSS/Nested Lists.md",
     "Code/nest lists.md",
     "Code/attachments",
     "Code",
