@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04b7b3ac4cffd1fd",
+        "id": "e6513f747d3c0e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e0f573533dfe29",
+            "id": "5fadef195aa0068c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.3 Worksheet Day 1 Answers"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "004a891f26a4bd1d",
+            "id": "e089dfabd8a1a90c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -169,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3.3 Worksheet Day 1 Answers"
+              "title": "Outline"
             }
           },
           {
@@ -234,11 +231,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "a0e0f573533dfe29",
+  "active": "5fadef195aa0068c",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
-    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
+    "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "Code/HTML body tags.md",
     "Code/Style Examples.md",
     "Code/Color scheme for logos.md",
