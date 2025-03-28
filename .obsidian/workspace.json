@@ -11,24 +11,26 @@
             "id": "5fadef195aa0068c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.3 worksheet Day 2 Answers"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
             "id": "30d5789ba237530e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-28 20.41.07.excalidraw.md"
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
+                "page": 4,
+                "left": -10,
+                "top": 514,
+                "zoom": 1.5269607843137254
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-28 20.41.07.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "Chapter 3.3 worksheet day 2_20250318_0001"
             }
           }
         ],
@@ -182,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-28 20.41.07.excalidraw.md",
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-03-28 20.41.07.excalidraw"
+              "title": "Outline of Chapter 3.3 worksheet day 2_20250318_0001"
             }
           },
           {
@@ -247,11 +249,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "30d5789ba237530e",
+  "active": "e089dfabd8a1a90c",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-03-28 20.41.07.excalidraw.md",
-    "Excalidraw",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
+    "Excalidraw",
     "School/Calculus 12/Chapter 3/Untitled.md",
     "School/School.md",
     "Code/HTML & CSS/Style Properties.md",
