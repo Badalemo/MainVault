@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code"
+              "title": "Outline"
             }
           },
           {
@@ -234,22 +233,24 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b197c960e66c096e",
+  "active": "e089dfabd8a1a90c",
   "lastOpenFiles": [
+    "Code/Code.md",
+    "Code/HTML/HTML.md",
+    "Code/HTML",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "Code/HTML body tags.md",
     "Code/Style Examples.md",
-    "Code/Color scheme for logos.md",
-    "Code/Style attribute.md",
+    "Code/HTML/Color scheme for logos.md",
+    "Code/HTML/Style attribute.md",
     "Code/HTML head tags.md",
-    "Code/Style Properties.md",
+    "Code/HTML/Style Properties.md",
     "Code/attachments/Pasted image 20250325223632.png",
     "Select Note.md",
     "Code/Property Examples.md",
     "Code/table tag.md",
-    "Code/Code.md",
     "Code/attachments/Pasted image 20250325222441.png",
     "Code/attachments/Pasted image 20250325222416.png",
     "Code/attachments/Pasted image 20250325222349.png",
@@ -276,12 +277,10 @@
     "School/Computer Programming 12/Web Design 12/usefulresources.html",
     "School/Computer Programming 12/Web Design 12/vocabularylist.html",
     "School/Computer Programming 12/Web Design 12/petnames.html",
-    "School/Computer Programming 12/Web Design 12/codehsshortcuts.html",
     "School/Computer Programming 12/ProfitTracker/Profit Tracker Report.md",
     "conflict-files-obsidian-git.md",
     "School/Global Geography 12/Global Geography 12.md",
     "School/Calculus 12/Chapter 3/Chapter 3.2 Differentiability.md",
-    "Programming/Programming.md",
     "Untitled.canvas"
   ]
 }
