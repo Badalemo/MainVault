@@ -3,12 +3,12 @@
 - < p > (needs closing): gives space to write words in default text (i.e. write words without header status)
 - < br > (does not need closing): line break, puts next line in another paragraph or another line
 - < li > (needs closing): defines a list item, can be used in both ul and ol lists
-- < ul > (needs closing): makes an unordered list(you can also [[Code/Nested Lists.md|nest lists]])![[Pasted image 20250325101826.png]]
-- < ol >(needs closing): makes an ordered list(you can also [[Code/Nested Lists.md|nest lists]])![[Pasted image 20250325102038.png]]
-- < table > (needs closing): Container for all table data (refer to [[Code/table tag.md|table tag]])
-- < tr > (needs closing): Container for a single row (refer to [[Code/table tag.md|table tag]])
-- < th > (needs closing): Single table header element (refer to [[Code/table tag.md|table tag]])
-- < td > (needs closing): Single table data element (refer to [[Code/table tag.md|table tag]])
+- < ul > (needs closing): makes an unordered list(you can also [[Nested Lists|nest lists]])![[Pasted image 20250325101826.png]]
+- < ol >(needs closing): makes an ordered list(you can also [[Nested Lists|nest lists]])![[Pasted image 20250325102038.png]]
+- < table > (needs closing): Container for all table data (refer to [[table tag|table tag]])
+- < tr > (needs closing): Container for a single row (refer to [[table tag|table tag]])
+- < th > (needs closing): Single table header element (refer to [[table tag|table tag]])
+- < td > (needs closing): Single table data element (refer to [[table tag|table tag]])
 - < strong > (needs closing): makes words bold
 - < em > (needs closing): makes words italic
 - < img src="image link" alt="Test incase the image does not show(this is optional)"> (does not need closing): Allows you to add an image
