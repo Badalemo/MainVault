@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/HTML & CSS/HTML head tags.md",
+                "file": "Code/HTML & CSS/HTML body tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML head tags"
+              "title": "HTML body tags"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/HTML & CSS/HTML head tags.md",
+                "file": "Code/HTML & CSS/HTML body tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTML head tags"
+              "title": "Backlinks for HTML body tags"
             }
           },
           {
@@ -237,6 +237,7 @@
   },
   "active": "9c9434ddb6723655",
   "lastOpenFiles": [
+    "Code/HTML & CSS/HTML head tags.md",
     "Code/HTML & CSS/HTML & CSS.md",
     "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
     "desktop.ini",
@@ -260,7 +261,6 @@
     "Code/HTML & CSS/Style Examples.md",
     "Code/HTML & CSS/Color scheme for logos.md",
     "Code/HTML & CSS/Style attribute.md",
-    "Code/HTML & CSS/HTML head tags.md",
     "Code/attachments/Pasted image 20250325223632.png",
     "Select Note.md",
     "Code/Property Examples.md",
