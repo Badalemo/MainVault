@@ -95,8 +95,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -182,12 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of implicit differentiation attempt 2"
             }
           },
           {
@@ -246,7 +246,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "64b32e936680be21",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation.md",
