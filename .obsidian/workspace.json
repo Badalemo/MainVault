@@ -18,45 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Implicit differentiation"
             }
-          },
-          {
-            "id": "d8a56a7cd0e1360e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "implicit differentiation attempt 2"
-            }
-          },
-          {
-            "id": "1dcae127a1a14dd3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.7 Implicit Differentiation.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.7 Implicit Differentiation"
-            }
-          },
-          {
-            "id": "26395953cbbd7a59",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.7 Worksheet"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
+                "file": "School/Calculus 12/Chapter 3/Implicit differentiation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter 3.7 Worksheet"
+              "title": "Outline of Implicit differentiation"
             }
           },
           {
@@ -270,11 +233,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "7b34608caa9b67bf",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
     "School/Calculus 12/Chapter 3/Chapter 3.7 Implicit Differentiation.md",
     "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
-    "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Untitled.canvas",
