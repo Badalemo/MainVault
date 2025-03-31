@@ -11,12 +11,17 @@
             "id": "7b34608caa9b67bf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "canvas",
               "state": {
-                "path": "Excalidraw"
+                "file": "Excalidraw/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Excalidraw"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -169,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -233,8 +239,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "db66a073986609af",
+  "active": "7b34608caa9b67bf",
   "lastOpenFiles": [
+    "Excalidraw/Untitled.canvas",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Untitled.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation.md",
@@ -277,7 +284,6 @@
     "School/Computer Programming 12/Computer Programming 12.md",
     "Tags/Tags.md",
     "www.notion.so.md",
-    "Notion.md",
     "School/Computer Programming 12/Web Design 12/archesnationalpark.html",
     "School/Computer Programming 12/Web Design 12/usefulresources.html",
     "School/Computer Programming 12/Web Design 12/vocabularylist.html",
