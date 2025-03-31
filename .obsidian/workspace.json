@@ -42,9 +42,21 @@
               "icon": "excalidraw-icon",
               "title": "Chapter 3.7 Implicit Differentiation"
             }
+          },
+          {
+            "id": "26395953cbbd7a59",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus 12/Chapter 3/Drawing 2025-03-31 15.02.37.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-31 15.02.37.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,12 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "School/Calculus 12/Chapter 3/Drawing 2025-03-31 15.02.37.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Drawing 2025-03-31 15.02.37.excalidraw"
             }
           },
           {
@@ -257,9 +270,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "630461a804934140",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.7 Implicit Differentiation.md",
+    "School/Calculus 12/Chapter 3/Drawing 2025-03-31 15.02.37.excalidraw.md",
     "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation.md",
     "Excalidraw/Excalidraw.md",
@@ -302,7 +316,6 @@
     "School/Computer Programming 12/Web Design 12/Places to find public domain pictures.md",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/Computer Programming 12/Computer Programming 12.md",
-    "Tags/Tags.md",
     "School/Computer Programming 12/Web Design 12/archesnationalpark.html",
     "School/Computer Programming 12/Web Design 12/usefulresources.html",
     "School/Computer Programming 12/Web Design 12/vocabularylist.html",
