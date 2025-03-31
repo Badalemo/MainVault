@@ -11,17 +11,12 @@
             "id": "7b34608caa9b67bf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "mk-space",
               "state": {
-                "file": "Excalidraw/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "path": "Excalidraw"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Excalidraw"
             }
           }
         ]
@@ -87,8 +82,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -174,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -239,10 +232,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b34608caa9b67bf",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
-    "Excalidraw/Untitled.canvas",
     "Excalidraw/Excalidraw.md",
+    "Excalidraw/Untitled.canvas",
     "Excalidraw/Untitled.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation1.md",
