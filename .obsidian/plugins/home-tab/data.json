@@ -24,6 +24,14 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Excalidraw/Untitled.md",
+      "timestamp": 1743382190514
+    },
+    {
+      "filepath": "Excalidraw/Excalidraw.md",
+      "timestamp": 1743382189705
+    },
+    {
       "filepath": "School/Calculus 12/Chapter 3/Implicit differentiation.md",
       "timestamp": 1743381937583
     },
@@ -34,14 +42,6 @@
     {
       "filepath": "School/School.md",
       "timestamp": 1743205194299
-    },
-    {
-      "filepath": "Code/HTML & CSS/Style Properties.md",
-      "timestamp": 1743131254390
-    },
-    {
-      "filepath": "Code/HTML & CSS/HTML & CSS.md",
-      "timestamp": 1743131249422
     }
   ],
   "bookmarkedFileStore": [],
