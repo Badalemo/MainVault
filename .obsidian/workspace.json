@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "eac5ef8320df73b3",
+            "id": "51b90a059a7d6f5b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,7 +82,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "c225caa3b2ac4d1a",
@@ -120,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 3.7 Worksheet"
+              "title": "Backlinks"
             }
           },
           {
@@ -232,12 +232,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7da4ffd3f46a11f0",
+  "active": "77f4887d377abc59",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
     "desktop.ini",
     "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation.md",
-    "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
     "School/Calculus 12/Chapter 3/Chapter 3.7 Implicit Differentiation.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Untitled.canvas",
@@ -280,7 +280,6 @@
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
     "School/Computer Programming 12/Web Design 12/archesnationalpark.html",
     "School/Computer Programming 12/Web Design 12/usefulresources.html",
-    "School/Computer Programming 12/Web Design 12/vocabularylist.html",
     "Untitled.canvas"
   ]
 }
