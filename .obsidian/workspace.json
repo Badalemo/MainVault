@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e6513f747d3c0e3b",
+        "id": "02093147f1e33b79",
         "type": "tabs",
         "children": [
           {
-            "id": "5fadef195aa0068c",
+            "id": "7b34608caa9b67bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "home-tab-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "30d5789ba237530e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Calculus 12/Chapter 3/Implicit differentiation.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Implicit differentiation"
+              "icon": "search",
+              "title": "Home tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +71,7 @@
             }
           },
           {
-            "id": "e089dfabd8a1a90c",
+            "id": "db66a073986609af",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -180,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Implicit differentiation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implicit differentiation"
+              "title": "Outline"
             }
           },
           {
@@ -245,11 +231,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e089dfabd8a1a90c",
+  "active": "db66a073986609af",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 3/Implicit differentiation.md",
     "Excalidraw/Excalidraw.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
-    "School/Calculus 12/Chapter 3/Implicit differentiation.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
     "Excalidraw",
     "School/Calculus 12/Chapter 3/Untitled.md",
