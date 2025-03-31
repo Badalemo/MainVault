@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "Implicit differentiation"
             }
+          },
+          {
+            "id": "d8a56a7cd0e1360e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus 12/Chapter 3/Drawing 2025-03-30 21.50.41.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-30 21.50.41.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Implicit differentiation.md",
+                "file": "School/Calculus 12/Chapter 3/Drawing 2025-03-30 21.50.41.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Implicit differentiation"
+              "title": "Outline of Drawing 2025-03-30 21.50.41.excalidraw"
             }
           },
           {
@@ -233,12 +246,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7b34608caa9b67bf",
+  "active": "d8a56a7cd0e1360e",
   "lastOpenFiles": [
+    "School/Calculus 12/Chapter 3/Implicit differentiation.md",
+    "School/Calculus 12/Chapter 3/Drawing 2025-03-30 21.50.41.excalidraw.md",
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Untitled.canvas",
     "Excalidraw/Untitled.md",
-    "School/Calculus 12/Chapter 3/Implicit differentiation.md",
     "School/Calculus 12/Chapter 3/Implicit differentiation1.md",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet day 2_20250318_0001.pdf",
     "School/Calculus 12/Chapter 3/Chapter 3.3 worksheet Day 2 Answers.md",
