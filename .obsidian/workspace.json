@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ProfitTracker"
+              "title": "Backlinks for Chapter 3.7 Worksheet"
             }
           },
           {
@@ -197,8 +197,7 @@
               "title": "Notion"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,7 +232,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2ac4f0dfb0834ec2",
+  "active": "7da4ffd3f46a11f0",
   "lastOpenFiles": [
     "desktop.ini",
     "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
