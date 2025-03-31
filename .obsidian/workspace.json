@@ -11,12 +11,12 @@
             "id": "7b34608caa9b67bf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "excalidraw",
               "state": {
-                "path": "Excalidraw"
+                "file": "School/Calculus 12/Chapter 3/Implicit differentiation.md"
               },
-              "icon": "lucide-file",
-              "title": "Excalidraw"
+              "icon": "excalidraw-icon",
+              "title": "Implicit differentiation"
             }
           }
         ]
@@ -168,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "School/Calculus 12/Chapter 3/Implicit differentiation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Implicit differentiation"
             }
           },
           {
@@ -232,7 +233,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "7b34608caa9b67bf",
   "lastOpenFiles": [
     "Excalidraw/Excalidraw.md",
     "Excalidraw/Untitled.canvas",
