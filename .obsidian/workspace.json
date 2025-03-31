@@ -11,12 +11,14 @@
             "id": "9c9434ddb6723655",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md"
+                "file": "Code/HTML & CSS/HTML head tags.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.7 Worksheet"
+              "icon": "lucide-file",
+              "title": "HTML head tags"
             }
           }
         ]
@@ -121,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Code/HTML & CSS/HTML head tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for HTML head tags"
             }
           },
           {
@@ -232,8 +235,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "77f4887d377abc59",
+  "active": "9c9434ddb6723655",
   "lastOpenFiles": [
+    "Code/HTML & CSS/HTML & CSS.md",
     "School/Calculus 12/Chapter 3/Chapter 3.7 Worksheet.md",
     "desktop.ini",
     "School/Calculus 12/Chapter 3/implicit differentiation attempt 2.md",
@@ -249,7 +253,6 @@
     "School/Calculus 12/Chapter 3/Untitled.md",
     "School/School.md",
     "Code/HTML & CSS/Style Properties.md",
-    "Code/HTML & CSS/HTML & CSS.md",
     "Code/Code.md",
     "Code/HTML & CSS",
     "School/Calculus 12/Chapter 3/Chapter 3.3 Worksheet Day 1 Answers.md",
