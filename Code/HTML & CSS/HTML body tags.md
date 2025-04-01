@@ -19,3 +19,4 @@
 - < header > (needs closing ): a semantic tag used like a < div> see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
 - < nav> (needs closing): a semantic tag used like a < span> see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
 - < article> (needs closing): a semantic tag used like a < div> see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
+- < see rest of semantic tags>: [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
