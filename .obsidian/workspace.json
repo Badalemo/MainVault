@@ -32,9 +32,21 @@
               "icon": "excalidraw-icon",
               "title": "Chapter 3.8 Derivativves of inverse trigonometric functions"
             }
+          },
+          {
+            "id": "7d139310e862180a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus 12/Chapter 3/Drawing 2025-04-01 13.54.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-01 13.54.53.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -136,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
+                "file": "School/Calculus 12/Chapter 3/Drawing 2025-04-01 13.54.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter 3.8 Derivativves of inverse trigonometric functions"
+              "title": "Backlinks for Drawing 2025-04-01 13.54.53.excalidraw"
             }
           },
           {
@@ -249,10 +260,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "93140cf3ebca12e4",
+  "active": "7d139310e862180a",
   "lastOpenFiles": [
-    "Code/HTML & CSS/HTML body tags.md",
     "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
+    "School/Calculus 12/Chapter 3/Drawing 2025-04-01 13.54.53.excalidraw.md",
+    "Code/HTML & CSS/HTML body tags.md",
     "School/Calculus 12/Chapter 3/Untitled.md",
     "Code/HTML & CSS/Semantic Tags.md",
     "Code/HTML & CSS/attachments/Pasted image 20250401102914.png",
@@ -293,7 +305,6 @@
     "Code/attachments/Pasted image 20250325222318.png",
     "Code/attachments/Pasted image 20250325222239.png",
     "School/Computer Programming 12/Web Design 12/othercodehs.html",
-    "Code/HTML & CSS/Nested Lists.md",
     "Code/attachments",
     "Code",
     "School/Computer Programming 12/ProfitTracker/ProfitTracker.java",
