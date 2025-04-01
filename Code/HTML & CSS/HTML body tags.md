@@ -23,3 +23,4 @@
 - < figure> (needs closing): A figure, graphic, or image that conveys information or data (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < footer> (needs closing): Appears at the bottom of the page and often contains site map links, contact information, and social media links. (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < aside> (needs closing): (semantic tag) A sidebar of content, usually within an information box
+- < section> (needs closing): (semantic tag) Blocks of content on a web page, usually more than one.
