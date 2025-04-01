@@ -21,4 +21,4 @@
 - < main>(needs closing): the primary content of the page (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < article> (needs closing): Section of content that contains an article, post, or information (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < figure> (needs closing): A figure, graphic, or image that conveys information or data (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
-- < footer> (needs closing): Appears at the bottom of the page and often contains site map links, contact information, and social media links. (see )
+- < footer> (needs closing): Appears at the bottom of the page and often contains site map links, contact information, and social media links. (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
