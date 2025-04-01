@@ -16,7 +16,7 @@
 - < iframe > (needs closing): used to embed other website snippets, like twitter snippets, or advertisement popups, or google maps snippets with advanced features into your webpage, the page loaded with the iFrame is specified using the "src" attribute see [[Code/HTML & CSS/iFrames.md|iframes]]
 - < span > (needs closing): used the same way as a < div > but doesnt break line after 
 - < div > (needs closing): used to make a section that can all be modified with one class
-- < header > (needs closing ): The header or bar at the top of the page (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
-- < nav> (needs closing): a semantic tag used like a < span> see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
+- < header > (needs closing ): The header or bar at the top of the page (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
+- < nav> (needs closing): container for n(see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < article> (needs closing): a semantic tag used like a < div> see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
 - < see rest of semantic tags>: [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
