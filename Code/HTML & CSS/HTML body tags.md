@@ -18,5 +18,5 @@
 - < div > (needs closing): used to make a section that can all be modified with one class
 - < header > (needs closing ): The header or bar at the top of the page (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < nav> (needs closing): container for navigation links(see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
-- < main> the primary 
+- < main>(needs closing): the primary content of the page see 
 - < article> (needs closing): a semantic tag used like a < div> see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]]
