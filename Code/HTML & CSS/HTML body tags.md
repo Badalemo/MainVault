@@ -26,4 +26,5 @@
 - < section> (needs closing): (semantic tag) Blocks of content on a web page, usually more than one.
 - < blockquote> (needs closing): (semantic tag) indents texts, tags, or information that is inside it
 - < mark> (needs closing): (semantic tag) highlights any text within it
-- < figure> (needs closing): used to define an image, chart, diagram, or other visual elements related to the pag
+- < figure> (needs closing): used to define an image, chart, diagram, or other visual elements related to the pages content
+- < figcaption> (needs closing): text that accomp
