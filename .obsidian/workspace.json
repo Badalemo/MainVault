@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "HTML body tags"
             }
+          },
+          {
+            "id": "93140cf3ebca12e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Chapter 3.8 Derivativves of inverse trigonometric functions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/HTML & CSS/HTML body tags.md",
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +145,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HTML body tags"
+              "title": "Backlinks for Chapter 3.8 Derivativves of inverse trigonometric functions"
             }
           },
           {
@@ -236,8 +249,9 @@
   },
   "active": "79a80faadf28fcff",
   "lastOpenFiles": [
-    "School/Calculus 12/Chapter 3/Untitled.md",
     "Code/HTML & CSS/HTML body tags.md",
+    "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
+    "School/Calculus 12/Chapter 3/Untitled.md",
     "Code/HTML & CSS/Semantic Tags.md",
     "Code/HTML & CSS/attachments/Pasted image 20250401102914.png",
     "Code/HTML & CSS/attachments/Pasted image 20250401102136.png",
