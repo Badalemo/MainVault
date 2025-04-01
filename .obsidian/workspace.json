@@ -37,12 +37,14 @@
             "id": "7d139310e862180a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md"
+                "file": "Code/HTML & CSS/HTML body tags.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Chapter 3.8 worksheet"
+              "icon": "lucide-file",
+              "title": "HTML body tags"
             }
           }
         ],
@@ -131,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5,
-    "collapsed": true
+    "width": 343.5
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -261,8 +262,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3ea19d6552a8bee6",
+  "active": "7d139310e862180a",
   "lastOpenFiles": [
+    "Code/HTML & CSS/HTML & CSS.md",
     "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md",
     "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
     "Code/HTML & CSS/HTML body tags.md",
@@ -271,7 +273,6 @@
     "Code/HTML & CSS/attachments/Pasted image 20250401102914.png",
     "Code/HTML & CSS/attachments/Pasted image 20250401102136.png",
     "Code/HTML & CSS/attachments/Pasted image 20250401101236.png",
-    "Code/HTML & CSS/HTML & CSS.md",
     "Code/HTML & CSS/HTML head tags.md",
     "Code/HTML & CSS/iFrames.md",
     "Code/HTML & CSS/attachments/Pasted image 20250331203422.png",
