@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -247,7 +248,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "79a80faadf28fcff",
+  "active": "93140cf3ebca12e4",
   "lastOpenFiles": [
     "Code/HTML & CSS/HTML body tags.md",
     "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
