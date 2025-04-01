@@ -131,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "right": {
     "id": "ec28f1de42fbc473",
@@ -147,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chapter 3.8 worksheet"
             }
           },
           {
@@ -259,7 +261,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "630461a804934140",
+  "active": "7d139310e862180a",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md",
     "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
