@@ -20,3 +20,4 @@
 - < nav> (needs closing): container for navigation links(see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < main>(needs closing): the primary content of the page (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < article> (needs closing): Section of content that contains an article, post, or information (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
+- < figure> (needs closing): A figure, graphic, or image that conveys information or data (see )
