@@ -39,10 +39,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Drawing 2025-04-01 13.54.53.excalidraw.md"
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-01 13.54.53.excalidraw"
+              "title": "Chapter 3.8 worksheet"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Calculus 12/Chapter 3/Drawing 2025-04-01 13.54.53.excalidraw.md",
+                "file": "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-04-01 13.54.53.excalidraw"
+              "title": "Backlinks for Chapter 3.8 worksheet"
             }
           },
           {
@@ -260,10 +260,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "7d139310e862180a",
+  "active": "79a80faadf28fcff",
   "lastOpenFiles": [
     "School/Calculus 12/Chapter 3/Chapter 3.8 Derivativves of inverse trigonometric functions.md",
-    "School/Calculus 12/Chapter 3/Drawing 2025-04-01 13.54.53.excalidraw.md",
+    "School/Calculus 12/Chapter 3/Chapter 3.8 worksheet.md",
     "Code/HTML & CSS/HTML body tags.md",
     "School/Calculus 12/Chapter 3/Untitled.md",
     "Code/HTML & CSS/Semantic Tags.md",
