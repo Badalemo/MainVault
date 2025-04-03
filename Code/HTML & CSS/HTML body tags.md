@@ -28,3 +28,4 @@
 - < mark> (needs closing): (semantic tag) highlights any text within it
 - < figure> (needs closing): used to define an image, chart, diagram, or other visual elements related to the pages content (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
 - < figcaption> (needs closing): text that accompanies the figure as a caption (see [[Code/HTML & CSS/Semantic Tags.md|semantic tags]])
+- 
