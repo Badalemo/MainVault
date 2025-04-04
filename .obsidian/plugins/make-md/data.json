@@ -4,6 +4,7 @@
   "navigatorEnabled": true,
   "filePreviewOnHover": false,
   "blinkEnabled": true,
+  "datePickerTime": false,
   "imageThumbnails": false,
   "spacesMDBInHidden": true,
   "cacheIndex": true,
@@ -33,6 +34,7 @@
   "folderNoteName": "",
   "sidebarTabs": true,
   "showRibbon": true,
+  "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//School/School/Calculus 12/School/Calculus 12/Chapter 2/School/Calculus 12/Chapter 2/attachments",
@@ -65,7 +67,6 @@
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
-  "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
@@ -95,5 +96,6 @@
   "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
-  "overrideNativeMenu": false
+  "overrideNativeMenu": false,
+  "dataviewInlineContext": false
 }
